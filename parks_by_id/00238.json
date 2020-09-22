@@ -1,0 +1,26 @@
+{
+  "name": "Monson Lake State Park",
+  "park_id": "00238",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00238#homepage",
+  "address": "1690 15th Street Northeast\nSunburg, MN 56289",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00238.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00238_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00238_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00238_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00238_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00238_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00238_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing"
+  ],
+  "park_information": {
+    "Park Information": "Cast your line for walleye, northerns, bass, and sunfish in Monson Lake. Birdwatchers look for white pelicans, herons, western grebes, and songbirds in this 346 acre park with a diverse landscape of wetlands and hardwood forests. The park includes a quiet campground and wooded picnic area. Paddle the lake and take a short portage that leads from Monson Lake to West Sunburg Lake.",
+    "Wildlife": "Visitors can watch a variety of birds in the park including white pelicans, a variety of herons, western grebes, shorebirds, and waterfowl. Monson Lake is a popular fishing spot for bass, walleye, northern pike, and several species of panfish.",
+    "History": "Monson Lake State Park was established in 1923 as a memorial to the members of the Broberg and Lundborg families who died in the U.S.-Dakota War of 1862. On August 20th of that year, Dakota Indians attacked a group of Pioneers in the West Lake Settlement, and 13 people were killed. Anna Stina Broberg, then 16 years old, and her cousin Peter Broberg, were the only two survivors of the attack. 2012 marked 150 years since the U.S.-Dakota War of 1862. Monson Lake State Park was an important location during this time. Find out how to learn more.",
+    "Geology": "The park lies within the Alexandria Glacial Moraine Complex which was laid down by glaciers more than 30,000 years ago. The rocks, sand, and gravel left by the last glacier make up the drift which formed the rest of the landscape. Monson and Sunburg Lakes were formed by melting ice in the glacial till.",
+    "Landscape": "The park consists of 346 acres on Monson and Sunburg Lakes. Upland lowland hardwoods, remnants of prairie, and the shoreline of Monson Lake provide examples of flora and fauna native to this area. The forests of Monson Lake are predominately oak, ash, and basswood."
+  }
+}

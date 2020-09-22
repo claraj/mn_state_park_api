@@ -1,0 +1,30 @@
+{
+  "name": "Gooseberry Falls State Park",
+  "park_id": "00172",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00172#homepage",
+  "address": "3206 Highway 61 East\nTwo Harbors, MN 55616",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00172.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00172_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00172_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00172_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00172_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00172_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00172_006.jpg"
+  ],
+  "highlights": [
+    "Scenic Waterfalls/Lake Superior Shoreline",
+    "Visitor Center/Nature Store",
+    "Historic CCC Log & Stone Structures",
+    "Year-Round Naturalist",
+    "Multi-Use/Accessible Trails",
+    "Gateway Plaza"
+  ],
+  "park_information": {
+    "Park Information": "Gooseberry Falls is the gateway to the North Shore. It is known for its spectacular waterfalls, river gorge, Lake Superior shoreline, Civilian Conservation Corps log and stone structures, and north woods wildlife.",
+    "Wildlife": "Listen to the thunderous roar of the Upper, Middle and Lower Falls of the Gooseberry River as it plummets through a rocky gorge. Watch for waves, ships, or the moon rise on Lake Superior from an ancient lava flow known as the Picnic Flow.",
+    "History": "Hike or ski to see the Fifth Falls through a forest of evergreens, aspen, and birch, and enjoy camping in modern campsites, picnicking, and relaxing along the Lake Superior shoreline or the Gooseberry River.",
+    "Geology": "To get the most out of your visit, stop by the Joseph N. Alexander Visitor Center where you can find park information, interpretive displays, a park video, Nature Store, and more. Don't miss the Gateway Plaza for outdoor interpretive signs on area resources and history.",
+    "Landscape": "The park has recorded over 225 species of birds that nest or visit the park, 46 species of mammals, and ten species of reptiles and amphibians. Of special interest to visitors are white-tailed deer, black bears, gray wolves, pine martens, migratory Lake Superior salmon and trout, a variety of conifer-dependent birds, ravens, and the herring gulls that establish nesting colonies along the lakeshore. During fall and spring, many migratory birds can be seen because the park is along the North Shore flyway. North Shore birds | North Shore mammals, amphibians & reptiles."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Wild River State Park",
+  "park_id": "00254",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00254#homepage",
+  "address": "39797 Park Trail\nCenter City, MN 55012",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00254.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00254_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00254_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00254_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00254_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00254_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00254_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Canoeing",
+    "Cross-Country Skiing",
+    "McElroy Visitor Center",
+    "Nevers Dam Overlook",
+    "Wildlife/Wildflowers"
+  ],
+  "park_information": {
+    "Park Information": "Wild River State Park is located along 18 miles of the beautiful St. Croix River. The park attracts people who enjoy camping, hiking, horseback riding, canoeing, interpretive programs, self-guided trails, and cross-country skiing and snowshoeing. Day visitors can enjoy a leisurely paddle down the St. Croix River from the Sunrise river access to the southern park river access.",
+    "Wildlife": "The park provides opportunities for semi-modern camping, group camping, equestrian camping, backpack camping, and canoe camping. Visitors who want modern amenities can reserve the guest house which provides a living room, dining room, kitchen, and fireplace. The park also has six camping cabins which include bunkbeds, a table, and benches.",
+    "History": "An all-season trail center is a great spot to relax after hiking or cross-country skiing on the 35-mile trail system. A visitor center with exhibits and environmental education programs is open year-round.",
+    "Geology": "Wild River provides habitat for a variety of wildlife. Hawks, owls, eagles, and a diversity of songbirds are common. The tracks of beaver, raccoon, fox, coyote, otter, mink, and deer are often seen in the soft earth or snow. Northern pike, walleye, and smallmouth bass are found in the St. Croix River. Squirrels and other small mammals thrive in oak forests and savannas. Prairie restoration sites are increasingly used by meadowlarks and grassland sparrows.",
+    "Landscape": "The St. Croix River Valley was first occupied by nomadic people 6,000 years ago. For thousands of years, the valley was home for the Dakota and Ojibwe Indians. Samuel's Fur Post and Connor's Goose Creek Post were active in 1847. After Minnesota became a territory in 1849, a military road was constructed through the park. It was part of the route from Hastings to Lake Superior and a portion of it is still evident today. The towns of Sunrise and Amador were founded in the 1850s. The great white pine logging era resulted in the building of Nevers Dam in 1890. The dam operated until 1912. Read more: Nevers Dam...The Lumberman's Dam . The park was established to protect the natural and cultural resources and to provide recreational opportunities along the St. Croix River. The park's name \"Wild River\" is derived from the fact that the St. Croix River was one of the original eight rivers protected by the U.S. Congress through the Wild and Scenic Rivers Act of 1968. Nearly 5,000 of the park's total 6,803 acres were donated by Northern States Power Company."
+  }
+}

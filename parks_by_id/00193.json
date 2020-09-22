@@ -1,0 +1,30 @@
+{
+  "name": "Judge C.R. Magney State Park",
+  "park_id": "00193",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00193#homepage",
+  "address": "4051 East Highway 61\nGrand Marais, MN 55604",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00193.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00193_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00193_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00193_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00193_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00193_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00193_006.jpg"
+  ],
+  "highlights": [
+    "Scenic Waterfalls",
+    "Trout Fishing",
+    "Camping",
+    "Hiking/Picnicking",
+    "Wildlife Observation",
+    "Superior Hiking Trail"
+  ],
+  "park_information": {
+    "Park Information": "Come for the quiet, the solitude, and the famous Devil's Kettle waterfall. The most popular hike leads from the trailhead upstream along the Brule River to Devil's Kettle, where the river splits around a mass of volcanic rock. Half of the river plunges 50 feet into a pool, while the rest pours into a huge pothole. Anglers can catch brook and rainbow trout in the Brule River or its tributary, Gauthier Creek. The park offers camping, picnicking and hiking.",
+    "Wildlife": "Moose, white-tailed deer, black bears, and timber wolves are among the larger animals that inhabit the park. Smaller mammals that visitors may see include the woodchuck, snowshoe hare, red squirrel, and chipmunk. In the spring and summer, listen for the songs of warblers. All year round, chickadees, nuthatches, jays, woodpeckers, and ruffed grouse can be seen in the park.",
+    "History": "Concrete foundations in the campground and picnic areas of the park are remnants of a transient work camp built there in 1934 by the State. The camp provided work and lodging for men displaced during the Depression years. In addition to building trails, logging, and completing public service projects, these men helped fight a fire in 1935 that burned more than 10,000 acres in the area. Later the men set up a sawmill and began to salvage fire-damaged wood.",
+    "Geology": "In 1957, a 940-acre parcel of forest along the Brule River was set aside as Brule River State Park. The park became Judge C. R. Magney State Park in 1963 when the Minnesota legislature selected this park as a memorial to the late Judge Magney, a lawyer, mayor of Duluth, justice of the Minnesota Supreme Court, and a strong advocate of Minnesota State Parks, especially those along the North Shore. With his influence, he was instrumental in establishing 11 state parks and waysides along Lake Superior. Over the years, parcels of land have been added to the park which today totals 4,642 acres.",
+    "Landscape": "The bedrock exposed along Lake Superior\u2019s North Shore has a geologic history that goes back some 1.1 billion years. During the dramatic volcanic activity of that time, molten lava poured through great fissures that developed in the Earth\u2019s crust. One particular flow complex, the Devil\u2019s Kettle rhyolite flow, visible along the Brule River, is thought to be as much as 770 feet thick. As these flows accumulated, the land along the rift zone sank to form a great basin, into which huge volumes of sediment were deposited after volcanic activity ended. A long period of erosion followed. The local Sawtooth Mountains of the Grand Marais area are the remnants of these great, tilted lava flows. Much more recently, glaciers took their toll on the area as massive ice sheets gouged out the Lake Superior basin, mainly from the post-volcanic sediments, and scoured the bedrock surface. In Cook County, where the park is located, the glacial action eroded more earth and bedrock than it deposited."
+  }
+}

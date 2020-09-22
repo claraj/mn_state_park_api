@@ -1,0 +1,27 @@
+{
+  "name": "Minneopa State Park",
+  "park_id": "00235",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00235#homepage",
+  "address": "54497 Gadwall Road\nMankato, MN 56001",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00235.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00235_007.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00235_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00235_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00235_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00235_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00235_005.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing",
+    "Bison herd"
+  ],
+  "park_information": {
+    "Park Information": "The word Minneopa is derived from the Dakota language and is interpreted to mean \"water falling twice,\" referring to the beautiful waterfalls of Minneopa Creek. Walk the trail which encircles the falls, leading down a limestone stairway to the valley below. Ascend the opposite side and enjoy a panoramic view of the valley which reveals the underlying geology of this area. Visit Seppmann Mill, a wind driven grist mill fashioned in German style from native stone and lumber, or hike through oak savanna and native prairie grasslands overlooking the scenic Minnesota River Valley.",
+    "Wildlife": "Minneopa is home to a wide variety of songbird species. Many migrants stop here for a short stay on their way to their summer range. It should come as no surprise then that birdwatching is a popular activity. Be prepared to see the eastern bluebird, the western meadowlark, and the yellow shafted flicker. Tree sparrows, king birds, red-winged blackbirds, red-tailed hawks, and even American bald eagles are common at various times of the year.",
+    "History": "If your eyes are sharp, you may catch a glimpse of a wild turkey or ring-necked pheasant sneaking through the grass. The white-tailed deer is never far away and campers are often treated to the call of a coyote announcing its presence in the early evening hours.",
+    "Geology": "Both woodland prairie animals can be found in the park. The Minnesota River Floodplain area is home to various snakes, beaver, and waterfowl. The southern wooded part of the park is home to woodpeckers, squirrels, and other woodland animals.",
+    "Landscape": "In 1905 the State of Minnesota passed legislation setting aside the area around Minneopa Falls for public use and establishing Minneopa State Park. This made Minneopa the third state park in Minnesota. The scenic splendor of the area was well known and it had become a popular destination for thousands of visitors who came by rail to the townsite of Minneopa, which had sprung up around the adjacent depot in 1870. Still others made their way by steam powered paddle boat up the Minnesota River and then on foot following the banks of Minneopa Creek to the falls. Locals came from miles around by team and wagon to picnic and play baseball."
+  }
+}

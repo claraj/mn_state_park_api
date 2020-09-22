@@ -1,0 +1,29 @@
+{
+  "name": "Father Hennepin State Park",
+  "park_id": "00142",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00142#homepage",
+  "address": "Mailing\nP.O. Box 397\nIsle, MN 56342\nShipping\n41294 Father Hennepin Park Road\nIsle, MN 56342",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00142.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00142_012.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00142_010.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00142_011.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00142_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00142_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00142_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing",
+    "Wheelchair Accessible Fishing Piers",
+    "Sandy Beach",
+    "Home of Several Albino Deer"
+  ],
+  "park_information": {
+    "Park Information": "Father Hennepin State Park is located on the southeast shore of Mille Lacs Lake. Visitors enjoy a large sandy beach for swimming, two boat accesses, fishing piers and picnic sites with a panoramic view of the lake. The park's 320 acres include two campgrounds and hiking trails that wind through a hardwood forest and along the rocky shoreline of Mille Lacs. The park's original vegetation was northern hardwoods mixed with marsh areas and pines along the lake. The hardwoods provide shade during the summer and spectacular color in the fall.",
+    "Wildlife": "Father Hennepin State Park is home to a variety of wildlife. Hawks, ospreys, owls, and eagles are common. The tracks of beaver, raccoon, mink and deer are often seen in the soft earth or snow. Northern pike, walleye, bluegills, sunfish and bass are found in the lake. The aspen stands and small clearings are excellent for ruffed grouse. Squirrels and chipmunks thrive in maple and oak stands. The small ponds and streams provide homes for amphibians and insects, which in turn attract larger fish, birds and mammals.",
+    "History": "The park is named after Father Louis Hennepin, a priest who visited the area with a French expedition in 1680. Hennepin is not thought to have been in the exact location of the park, but the park is named after him because he was the first to write extensively about the Mille Lacs area. He called the area Louisiana, in honor of France's King Louis XIV. In the spring of 1680, they met a group of Dakota Indians, and accompanied them to their villages, about 15 miles from today's Father Hennepin State Park. Throughout the experience, Father Hennepin kept a journal describing the lakes, rivers, landscapes, and lifestyle of his hosts, the Mdewakanton Dakota. In 1683, the French published his writings in the book, Description of Louisiana.",
+    "Geology": "About 20,000 years ago, during the peak of the last glacial period, a glacier called the Rainy lobe advanced from the Ontario region through what is now the Boundary Waters Canoe Area and covered most of the Lake Mille Lacs region. As it moved, the Rainy lobe picked up, crushed, and deposited fragments of the underlying bedrock. As the glacier receded, streams of meltwater carried sand gravel from the ice and dropped it in front of the glacier, a deposit called an outwash.",
+    "Landscape": "About 15,000 years ago, another glacier, called the Superior lobe, advanced from the Ontario region through the Lake Superior basin and into the area of central Minnesota. It crossed over the outwash that the Rainy lobe had deposited and pushed up the sand gravel into a formation of big elongated hills called a moraine. When the Superior lobe finally receded it left a layer of reddish sediment over this moraine and buried some stranded blocks of stagnant ice. The reddish color comes from iron oxide in the sediment that the glacier eroded from bedrock in the Lake Superior basin."
+  }
+}

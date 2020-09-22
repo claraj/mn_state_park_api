@@ -1,0 +1,29 @@
+{
+  "name": "Zippel Bay State Park",
+  "park_id": "00284",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00284#homepage",
+  "address": "3684 54th Avenue Northwest\nWilliams, MN 56686",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00284.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/zippel_bay_1.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/zippel_bay_2.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/zippel_bay_3.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/zippel_bay_4.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/zippel_bay_5.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/zippel_bay_6.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing",
+    "Beach",
+    "Bird Watching",
+    "Winter Recreation"
+  ],
+  "park_information": {
+    "Park Information": "After visiting Zippel Bay, you\u2019ll remember the sunsets and the miles of white sand beach. The park is located on Lake of the Woods, one of the world\u2019s largest lakes. The mood of the lake is always changing, from approaching storms that bring three-foot-high crashing waves and lightning flashes to an eerie stillness, broken only by the faint calls of a thousand raucous gulls, out of sight in the lake\u2019s interior. In summer, the 3,000-acre park offers a swimming beach and picnic area on the big lake, drive-in campsites and a group camp, a marina on Zippel Bay and a stone jetty providing protected access to Lake of the Woods.",
+    "Wildlife": "Birding is excellent\u2014be sure to watch for sandhill cranes and piping plovers. In the winter, three miles of snowmobile trail provide access to the lake, which snowmobilers will find dotted with fish houses making virtual towns on the ice. Seven miles of groomed cross-country trails wind to the lakeshore through jack pine, birch, and open fields.",
+    "History": "The park's location on the northern border of the state affords opportunities to observe an interesting variety of wildlife not common elsewhere in the state. Park wildlife includes coyote, black bear, mink, fisher, otter and pine marten. Timber wolves are occasionally seen or heard in the park. Deer are commonly seen and, on occasion, a moose is sighted. On the list for birdwatching are white pelicans, double crested cormorants, four species of terns and herring, ring-billed, Franklin's and Bonaparte's gulls. Bald eagles nest near the park and osprey can be seen in the bay and along the lake. Sandhill cranes nest in the park and can be heard almost every day from spring to fall. In addition, the endangered piping plover may also be spotted along the beach front.",
+    "Geology": "Evidence of prehistoric people has been found along the Rainy River, east of Zippel Bay and at other sites in the vicinity of Lake of the Woods giving indication of a long and varied history of human habitation of this region.",
+    "Landscape": "When French Explorer Pierre Gaultier de la Verendrye explored the area in 1732, he reported that it was populated by Cree, Monsonis, Assiniboine and Dakota Indians. At that time the Ojibwe had not yet pushed westward. La Verendrye established Fort St. Charles in the Northwest Angle of Lake of the Woods and from this outpost managed the exploration work that eventually opened up the north and west to a tide of fur traders. When the fort was abandoned in 1763, the British laid claim to the area. The next 75 years became known as the golden age of the French-Canadian Voyageurs who traded in the region."
+  }
+}

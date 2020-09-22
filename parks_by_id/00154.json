@@ -1,0 +1,30 @@
+{
+  "name": "Fort Snelling State Park",
+  "park_id": "00154",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00154#homepage",
+  "address": "101 Snelling Lake Road\nSt. Paul, MN 55111",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00154.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00154_008.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00154_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00154_007.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00154_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00154_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00154_003.jpg"
+  ],
+  "highlights": [
+    "Fishing",
+    "Hiking",
+    "Dakota Memorial",
+    "Interpretive Exhibits",
+    "Bike Trails/Connections",
+    "Cross-Country Skiing"
+  ],
+  "park_information": {
+    "Park Information": "Located in the heart of the Twin Cities, this park offers extensive hiking, bike, snowshoe, and ski trails that link to an extensive regional trail system. Canoe, fish, or swim on Snelling Lake or hike on Pike Island where the Mississippi and Minnesota Rivers meet. Interpretive exhibits at the Thomas C Savage Visitor Center provide a good introduction to the history and resources of the park area.",
+    "Wildlife": "This is a day-use only park; no camping is available.",
+    "History": "The forest bottoms and marshes are home to an abundance of wildlife, including white-tailed deer, fox, woodchucks, turkeys, and coyotes. Visitors might also come across a fox snake which is almost identical in appearance to a rattle snake, but is not venomous. Snapping, soft-shelled and painted turtles can be seen basking in the sun along the river or in one of the lakes.",
+    "Geology": "Generations of Dakota lived in villages along the Mississippi and Minnesota Rivers that meet in Fort Snelling state park, long before Europeans arrived. The river confluence was believed to be the place of origin and center of the earth by the bands of Mde-wa-kan-ton-wan Dakota, the \"Dwellers by Mystic Lake.\" By the late 1600s, Europeans had visited the area. In the 1820s, historic Fort Snelling was built on the bluff above the two historic rivers to control the exploration, trade, and settlement on these waterways. 2012 marked 150 years since the U.S.-Dakota War of 1862. Fort Snelling State Park was an important location during this time. Find out how to learn more.",
+    "Landscape": "The area was established as a state park in 1961. The swimming beach, added in 1970, remains a popular recreation attraction in the park. In 1997, a new visitor center opened to the public."
+  }
+}

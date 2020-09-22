@@ -1,0 +1,30 @@
+{
+  "name": "Frontenac State Park",
+  "park_id": "00160",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00160#homepage",
+  "address": "29223 County 28 Boulevard\nFrontenac, MN 55026",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00160.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00160_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00160_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00160_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00160_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00160_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00160_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Wonderful Fall Colors",
+    "Excellent Birding Opportunities",
+    "Wildflowers in Spring Through Fall",
+    "Winter Sliding Hill",
+    "Great Hiking/Ski Trails"
+  ],
+  "park_information": {
+    "Park Information": "Located on the Mississippi River, Frontenac is a birdwatcher's paradise. It's one of the best spots in the country to view birds migrating in the spring and fall. More than 260 species of birds have been recorded here. No wonder: Lake Pepin's diverse habitats -- bluffland, prairie, floodplain forest and upland hardwood forest -- attract numerous warblers, hawks, waterfowl and shorebirds. Hikers and skiers enjoy spectacular views of this beautifully wooded river valley. Fishing, swimming and boat tours are all available nearby.",
+    "Wildlife": "Since the turn of the century, Frontenac has had a reputation for great birdwatching. Some 260 species of birds make the park their home for part or all of the year, while others just stop by on their way up or down the Mississippi River flyway. Bald eagles are commonly seen in the fall, winter and spring. A few eagles even nest in the area. Several species of warblers visit every year, particularly the first part of May. Frontenac has numerous other wildlife including deer, raccoon, opossum, red fox, coyote, woodchuck, various ground squirrels, beaver and wild turkey.",
+    "History": "Archeological excavations at Frontenac in 1976 uncovered artifacts from the Hopewellian culture dating from 400 B.C. to 300 A.D. Some sites were burial grounds; others indicated that these people lived here. Research also shows that the Dakota and Fox Indians hunted and fished on the shores of Lake Pepin. Later, the famous French missionary, Father Louis Hennepin, led the first European exploration to this area of the Mississippi River in 1680. In June 1727, an expedition left Montreal to set up a post in this area to launch further exploration westward in search of a route to the Pacific Ocean. It is believed that this post was located on Sand Point, although no evidence remains today.",
+    "Geology": "Hundreds of millions of years ago, Minnesota was covered by shallow seas. At the bottom of the seas, sediment accumulated and slowly hardened into rock. This rock now makes up the bluffs along the Mississippi River. Following the glacial period, Glacial River Warren cut a large valley through which the Mississippi River now flows. When the river was at its peak, most of Frontenac was underwater, except the park's bluff. One landmark in the park today, In-Yan-Teopa, a giant rock on the edge of the bluff, is believed to have religious importance to American Indians. At one time a stone quarry operated within the park boundaries that produced high quality limestone, a material popular for building. In 1883, John LaFarge and George L. Heins chose limestone from this quarry to construct part of the Cathedral of St. John the Divine in New York City.",
+    "Landscape": "Frontenac offers visitors a rich diversity of natural communities and landscapes: bluffs, prairie, floodplain forests, and hardwood forest in its 2,300 acres."
+  }
+}

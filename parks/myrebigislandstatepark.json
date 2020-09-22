@@ -1,0 +1,30 @@
+{
+  "name": "Myre - Big Island State Park",
+  "park_id": "00175",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00175#homepage",
+  "address": "19499 780th Avenue\nAlbert Lea, MN 56007",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00175.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00175_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00175_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00175_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00175_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00175_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00175_006.jpg"
+  ],
+  "highlights": [
+    "Spring and Fall Migrations",
+    "Glacial Esker",
+    "Great Marsh/Birdwatching",
+    "Hiking",
+    "Canoeing",
+    "Camping"
+  ],
+  "park_information": {
+    "Park Information": "This park has something for everyone. The trails take visitors around wet lowlands, oak savanna, and grasslands. Albert Lea Lake and park marshes draw hundreds of waterfowl during migration. Oak savanna and prairie landscape, including wetlands, dominate most of the park. One of the more unique aspects of the park is the 116-acre Big Island, covered with maple/basswood forest. Another is the glacial esker located in the northeast section of the park.",
+    "Wildlife": "The prairie, hardwoods and wetlands provide habitat for many animals. White-tailed deer, raccoon, red and gray fox, muskrat, opossum, squirrels, and several species of bats reside at the park. Eastern and red-sided garter snakes, northern red-bellied snakes, and northern brown snakes are found in the park. Reptiles include the western painted and snapping turtles. Leopard and wood frogs, and eastern tiger salamanders reside in the park.",
+    "History": "The park is considered one of the many good birding spots in southern Minnesota, especially during spring and fall migration. Birds of prey including the American kestrel, marsh hawk, red-tailed hawk, rough-legged hawk, great horned owl, and bald eagle are regular visitors. Shore and wading birds reported include the common egret, great blue heron, American bittern, sora and Virginia rail. Wood duck, mallard, blue-winged tea, and Canada goose are commonly seen. Songbirds include the indigo bunting, eastern bluebird, rose-breasted grosbeak, northern oriole and eastern wood pewee.",
+    "Geology": "Long before European settlers arrived, seasonal, and possibly year-round Indian villages were numerous around area lakes. Evidence of human occupation of the area dates back over 9,000 years and encompasses all four identified cultural periods (Big Game Hunters, Hunter/Gatherers, Horticulturalists and Potters, Village Dwellers and Farmers, and Euro-American Contact). Most of this evidence comes in the form of artifacts, including projectile points, axes, other hand-worked stone tools, and pieces of pottery.",
+    "Landscape": "Today, most of what we know about these early people is what can be discovered by examination of their tools and occupation sites. The Owen Johnson Artifact Collection is one of the largest in the state and is available for research. The collection is not available for public viewing at this time. These locally found artifacts are treasures to assess how the early people of this area lived."
+  }
+}

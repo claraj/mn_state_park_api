@@ -1,0 +1,29 @@
+{
+  "name": "Upper Sioux Agency State Park",
+  "park_id": "00277",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00277#homepage",
+  "address": "5908 Highway 67\nGranite Falls, MN 56241",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00277.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00277_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00277_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00277_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00277_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00277_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00277_006.jpg"
+  ],
+  "highlights": [
+    "Camping Including Tipi Sites",
+    "Historic Site",
+    "Horse Trails/Camp",
+    "Varied Landscape/Hiking Trails",
+    "Birdwatching"
+  ],
+  "park_information": {
+    "Park Information": "Upper Sioux Agency State Park contains the site of the Upper Sioux or Yellow Medicine Agency. The park was established in 1963 to preserve and interpret the remains of the old Agency site. The park covers 1,280 acres and offers diversity: open prairie knolls, bluffs, and cool, wooded slopes. From the vistas, visitors enjoy the trails which are ideal for horseback riding, hiking, skiing, and snowmobiling. The park also offers a huge sliding hill for winter fun.",
+    "Wildlife": "From the river's bank visitors can fish for walleyes, northerns, catfish, bullheads and carp. Watch for white pelicans and great blue herons along edges of shallow pools. Spotted sandpipers, killdeer and other shore birds frequently hunt for insects on the gravel bars and mud flats along the river. Red-tailed hawks, turkey vultures and white pelicans catch the air currents above the valley. Bald eagles winter in the Minnesota River Valley.",
+    "History": "The Treaty of Traverse Des Sioux of 1851 moved the Dakota Indians from Iowa and Minnesota to a reservation 20 miles wide along the Minnesota River Valley extending from Big Stone Lake to Fort Ridgely. The Yellow Medicine Agency was established to administer the terms of the treaty.",
+    "Geology": "In the summer of 1862, the Yellow Medicine Agency was destroyed during the U.S.-Dakota War. 2012 marked 150 years since the U.S.-Dakota War of 1862. Upper Sioux Agency State Park was an important location during this time. Find out how to learn more.",
+    "Landscape": "Today, Upper Sioux Agency State Park exists to preserve the historic agency site and provide recreational opportunities in the scenic Minnesota River Valley."
+  }
+}

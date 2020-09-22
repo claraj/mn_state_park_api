@@ -1,0 +1,30 @@
+{
+  "name": "Scenic State Park",
+  "park_id": "00262",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00262#homepage",
+  "address": "56956 Scenic Highway 7\nBigfork, MN 56628",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00262.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00262_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00262_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00262_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00262_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00262_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00262_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Hiking",
+    "Virgin Pines",
+    "Peaceful Setting",
+    "Fishing/Canoeing",
+    "Historic CCC Buildings"
+  ],
+  "park_information": {
+    "Park Information": "With its pristine lakes, virgin pines, swimming beach, and wilderness-like setting, Scenic State Park is well deserving of its name. Here, visitors can hike the Chase Point Trail for hypnotic views of Coon and Sandwick Lakes and listen to the wind whistle through the giant pines. The park's overnight facilities include campsites (boat-in, drive-in, backpack), and a cabin. The historic lodge houses interpretive displays.",
+    "Wildlife": "More than 40 species of animals inhabit Scenic State Park including bald eagles, ospreys, loons, jays, pileated woodpeckers and a variety of songbirds. Birders consider this one of the best places in the state to see the hard-to-find spruce grouse. Along the lakes, marshes and streams, you may come across frogs, toads or even snakes. Otters, beavers and an occasional moose share this 3,360-acre habitat.",
+    "History": "Although the Ojibwe used this area as part of their hunting grounds, there is little evidence that it was heavily used.",
+    "Geology": "During the last glacial period, imagine a sheet of ice hundreds of feet high slowly creeping and gouging the earth. As the climate changed and glaciers began to melt, the retreating glaciers left behind depressions, ridges and deposits of soil that formed the rolling hills throughout the area.",
+    "Landscape": "Scenic State Park protects the entire virgin pine shorelands of Coon and Sandwick Lakes, plus part of the Lake of the Isles, Tell Lake, Cedar Lake and Pine Lake. Coon and Sandwick lakes are the most popular places in the park and offer great fishing for walleyes, northerns, bass and panfish. The park is located in the Laurentian Mixed Forest landscape region abundant with aspen-birch, white and red pine, jack pine and mixed hardwoods."
+  }
+}

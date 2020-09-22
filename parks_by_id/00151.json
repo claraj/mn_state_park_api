@@ -1,0 +1,29 @@
+{
+  "name": "Fort Ridgely State Park",
+  "park_id": "00151",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00151#homepage",
+  "address": "72158 County Road 30\nFairfax, MN 55332",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00151.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00151_011.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00151_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00151_010.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00151_007.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00151_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00151_012.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Historic Site",
+    "Horseback Riding",
+    "Scenic Rolling Hills",
+    "Forests and Prairies"
+  ],
+  "park_information": {
+    "Park Information": "Tour Historic Fort Ridgely and wander through the ruins of this once thriving outpost. Learn about the U.S.-Dakota War of 1862, a major event in Minnesota's early history. Visit the museum and the cemetery to learn more. For recreation, this park offers plenty. In the summer, hike or ride the trails on horseback, fish the stocked pond or trout stream, camp (drive-in and walk-in sites are available), or stay overnight in the renovated farmhouse. In the winter, ski, snowmobile, or stay overnight at the chalet.",
+    "Wildlife": "White-tailed deer, red and gray foxes, raccoons, mink, beavers, hawks, owls, Canada geese, wild turkeys, reptiles and many songbirds can be seen in the park.",
+    "History": "In the spring of 1853, the steamboat West Newton left Fort Snelling to journey up the Minnesota River, bound for a plateau above the river in Nicollet County. The steamboat carried soldiers and their families, carpenters, and supplies. The people were assigned to build a fort at the edge of the Dakota reservation. The fort was named \"Ridgely\" in honor of three men of the same name who had died during the Mexican War. Fort Ridgely was complete by 1855. Before long, Fort Ridgely developed into a self-sufficient community populated by 300 soldiers and civilians.",
+    "Geology": "The Fort played a role in the U.S.-Dakota War of 1862 when it was attacked twice by Dakota Indians. 2012 marked 150 years since the U.S.-Dakota War of 1862. Find out how to learn more.",
+    "Landscape": "After Fort Ridgely closed in 1872, local farmers used the buildings. The first purchase of land for the park occurred in 1896 as a war memorial to those who fought in the U.S.-Dakota War. More acres were purchased in 1911 when the site was designated a state park."
+  }
+}

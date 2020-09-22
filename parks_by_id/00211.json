@@ -1,0 +1,30 @@
+{
+  "name": "Lake Carlos State Park",
+  "park_id": "00211",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00211#homepage",
+  "address": "2601 County Road 38 Northeast\nCarlos, MN 56319",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00211.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00211_spring_pelicans.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00211_spring_campercabin.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00211_spring_marshmarigold.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00211_spring_turtle.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00211_spring_fawn.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00211_spring_fishing.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing on Chain of Lakes",
+    "Birdwatching",
+    "Hiking Through Rolling Hills",
+    "Swimming/Boating",
+    "Water Recreation"
+  ],
+  "park_information": {
+    "Park Information": "Sculpted by ancient glaciers, Lake Carlos State Park contains a tamarack bog, marshes, woodland ponds, and lakes.",
+    "Wildlife": "A variety of recreational activities revolve around the lake. Clear and deep, Lake Carlos offers visitors a perfect setting for swimming, fishing, boating, camping, hiking and horseback riding. In the winter, ski from the tamarack bog to a maple-basswood forest.",
+    "History": "One third of Minnesota's 80 mammals and over 150 species of birds inhabit the park seasonally or year around. Visitors often see beaver, deer, loons, grebes, ducks and heron.",
+    "Geology": "Early settlers drifted into the area after the signing of the Traverse des Sioux treaty in 1851. This treaty opened much of central Minnesota to white settlement. Alexander and William Kinkaid settled at the junction between Lake Agnes and Lake Winona, the area that was to become the town of Alexandria. During the U.S./Dakota War of 1862, most of the settlers moved east to Sauk Centre and St. Cloud, but returned to the area later that year. During the Great Depression, the state purchased the land that became Lake Carlos State Park in 1937.",
+    "Landscape": "Receding glaciers left most of Douglas County blanketed with layers of gravel and sand. This \"drift\"contains pebbles and round stones of all sizes. Retreating glaciers also left huge chunks of broken ice. When these blocks melted, they formed the area's lakes. Lake Carlos is 150 feet deep in places. The outlet at the northeast corner is the source of the Long Prairie River. Although no rock outcrops occur in this area, boulders taken from glacial drift supplied farmers in the area with building blocks for the foundations and walls of their homes and barns. This granite masonry can also be seen in the park's beach house and pump station."
+  }
+}

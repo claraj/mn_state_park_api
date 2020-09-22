@@ -1,0 +1,30 @@
+{
+  "name": "Crow Wing State Park",
+  "park_id": "00139",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00139#homepage",
+  "address": "3124 State Park Road\nBrainerd, MN 56401",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00139.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00139_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00139_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00139_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00139_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00139_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00139_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing",
+    "Scenic Hiking Trails",
+    "Historic Sites",
+    "Canoeing/Mississippi River",
+    "Great Wildlife Observation Opportunities"
+  ],
+  "park_information": {
+    "Park Information": "This is a nature lover's delight. Explore prairie, pine, and hardwood forests. View the Mississippi River from historic and picturesque \"Chippewa Lookout.\" Novice canoeists can paddle the calm waters of the Crow Wing and Mississippi Rivers. Crow Wing is a park rich in cultural history. In this area, a frontier town emerged to serve the needs of travelers and traders. The town died when the railroad chose to cross the river at Brainerd. Walk through the site of the Old Crow Wing Village for a sense of history. The park still has a section of the famous Woods Trail, which served ox cart traffic that carried supplies between St. Paul and the Red River settlements.",
+    "Wildlife": "Park visitors enjoy seeing white-tailed deer browsing at the forest edge; beaver, muskrat, and waterfowl in the wetlands and waterways; and eagles and hawks flying along the riverway. The careful observer may catch a glimpse of a coyote or fox, while the ever-present songbirds add something special to a family outing.",
+    "History": "There is some disagreement about the origin of the name Crow Wing. Most agree that the 19th century town, the county and the state park honored the name of the river. Some claim that the river was so named because an island, prominently located at the confluence of the Mississippi and Crow Wing Rivers, is shaped like a crow's wing. Others claim that the name is a mistranslation of an Ojibwe word for raven or raven feather. Still others say that the name is derived from the Little Crow chiefdom and lineage of the Dakota, who inhabited this region before the Ojibwe. According to historian William Warren, this was the scene of a major battle between the Dakota and Ojibwe Indians in 1768. The fur trade era brought the voyageurs of the Northwest and American Fur Companies. Soon traders established posts along the rivers and a branch of the Red River Trail brought ox carts through the area. Leaders of the territory and the state settled here. Allen Morrison, the first citizen of Crow Wing, established a post below the southern mouth of the Crow Wing River in 1823. In 1847, Clement H. Beaulieu took over operations of the American Fur Company at Crow Wing and built a stately mansion in the frontier village. This Greek Revival structure survived the ages. It has recently been returned to its original location and is presently being restored. Missionaries came to teach the Indians and build mission churches. The cemeteries remind us of the once thriving community.",
+    "Geology": "Crow Wing is located in the far northwestern corner of the Anoka Sand Plains region. This region was formed by the drainage of the glacial Lake Grantsburg. As the lake drained, the meltwaters formed a series of coalescing outwash plains wherever the ice exposed low ground. In this way, the vast sandplain was formed, also receiving water from the diverted Mississippi River. Small lake plains were formed here, in addition to the outwash plains of Lake Grantsburg.",
+    "Landscape": "Original vegetation included oak forests and barrens interspersed with pine and prairie openings. Conifer bogs and wet prairies occupied the depressions in the region's landscape. Today, visitors experience an oak forest, aspen, jack, red pine, white pine, prairies, and wetlands."
+  }
+}

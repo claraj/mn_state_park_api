@@ -1,0 +1,29 @@
+{
+  "name": "Big Stone Lake State Park",
+  "park_id": "00115",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00115#homepage",
+  "address": "35889 Meadowbrook State Park Road\nOrtonville, MN 56278",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00115.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00115_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00115_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00115_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00115_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00115_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00115_006.jpg"
+  ],
+  "highlights": [
+    "Lakeside Campsites",
+    "Fishing",
+    "Bird Watching",
+    "Native Prairie/Oak Savanna in Scientific and Natural Area",
+    "Wildflowers Spring/Summer"
+  ],
+  "park_information": {
+    "Park Information": "Big Stone Lake is 26 miles long and is located on the South Dakota-Minnesota border. The lake is the source of the Minnesota River and attracts anglers who catch walleye, northern pike, yellow perch and bluegills. The northern section of the park, called the Bonanza Area, provides a picnic area and boat launch for guests. The area also includes the Bonanza Education Center which provides a place to discover the past and ways to preserve it. The southern section of the park, called the Meadowbrook Area, contains a campground, swimming beach and hiking trails.",
+    "Wildlife": "Deer, raccoons, thirteen-lined ground squirrels, meadowlarks, sedge wrens, pheasants, bobolinks, wild turkeys, thrashers, and mourning doves are sighted in the park.",
+    "History": "In 1923, State Auditor Ray Chase critiqued the state park system and thought there was a geographic imbalance in the system. In his proposal for additional parks, Chase urged that more state parks be established in southern Minnesota. The Ortonville area was targeted as a place with a need for a state park. It wasn't until 1961 that Big Stone Lake State Park was established at the urging of Ortonville business people who were concerned about lakeshore development. Working with U.W. (Judge) Hella, director of Parks and Recreation Division, legislation was drafted to establish Big Stone Lake as a state park.",
+    "Geology": "Long ago, this area was the south end of glacial Lake Agassiz. Torrents of water cut the valley when glacial river Warren drained Lake Agassiz. The area around Big Stone Lake State Park consists of granite and gneiss quarries. The top three inches of stone is exposed and contains the fossil remains of sharks' teeth.",
+    "Landscape": "Big Stone Lake State Park is part of the Minnesota River Country Landscape Region, a large area which extends almost 200 miles from Ortonville to Mankato. At one time, the landscape consisted of tall and mid-grass prairie, interspersed with marshes, lakes and streams. Today, extensive farming has replaced the prairie. Cottonwoods, ash, and silver maples can be found on the lake's shoreline. The Bonanza Scientific and Natural Area located within the park protects more than 80 acres of native oak savanna and glacial till prairie habitat. Bonanza also includes 50 acres of oak basswood forest and spring-fed ephemeral streams."
+  }
+}

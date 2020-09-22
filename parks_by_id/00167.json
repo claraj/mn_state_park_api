@@ -1,0 +1,30 @@
+{
+  "name": "Glendalough State Park",
+  "park_id": "00167",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00167#homepage",
+  "address": "24869 Whitetail Lane\nBattle Lake, MN 56515",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00167.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00167_007.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00167_008.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00167_009.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00167_010.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00167_011.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00167_012.jpg"
+  ],
+  "highlights": [
+    "Cart-in Tent Camping",
+    "Hiking and Biking",
+    "Wildlife Observation",
+    "Heritage Fishing/Large Panfish",
+    "Canoeing on Chain of Lakes",
+    "Sandy Swimming Beach"
+  ],
+  "park_information": {
+    "Park Information": "Nestled in the transition zone between prairie and hardwood forest, Glendalough offers a true respite from civilization. Crystal clear Annie Battle Lake is a 335-acre, non-motorized \"Heritage Fishery\" that provides a tranquil fishing experience second to none. Special regulations sustain a steady supply of large sunfish, crappie, and the occasional walleye for the frying pan, and large bass for the camera. Near the pristine shores of this lake are a cart-in campground and canoe-in campsites, all free from the traffic and noise of traditional drive-in camping.",
+    "Wildlife": "Annie can also be the starting point for an exploration of the park by canoe or kayak on the connecting creeks. The restored historic Glendalough lodge on the north side of the lake details the park's history as a private retreat and game farm for the Minneapolis Tribune.",
+    "History": "A paved bike trail loop and numerous hiking trails, including two interpretive trails, meander along five lakes, through rich woods and blooming prairies. Wildlife abounds year-round, and there are many observation decks along the trails. Trails are groomed in winter for skiing and snowshoeing. Picnicking and swimming is available on two sandy lakes.",
+    "Geology": "Glendalough is home to abundant populations of white-tailed deer, raccoon, red fox, and smaller mammals. The park also offers excellent birdwatching for a variety of species of prairie, wetland, and hardwood forest birds. An active eagle nest and fresh beaver cuttings can be viewed from the park trails, and loons are common on the park's lakes. Wildlife observation blinds have been constructed and binoculars and birding kits are available for loan at the park.",
+    "Landscape": "Originally acquired by Ezra Valentine in 1903 as a summer retreat, the land was sold in 1928 to F.E. Murphy, owner of the Minneapolis Tribune Company. Murphy expanded the property and started a private game farm there. In 1941, the property as well as the Tribune newspaper was sold to Cowles Media Company. The Cowles family continued to operate the game farm and add more land to the property, which they used as a private family and corporate retreat. During the 1950s, former presidents Dwight Eisenhower and Richard Nixon were among the many notable guests at Glendalough. On Earth Day, 1990, this largely natural and undeveloped property was donated to The Nature Conservancy. On June 10, 1992, the deed was transferred to the Minnesota Department of Natural Resources for use as a state park."
+  }
+}

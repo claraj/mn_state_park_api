@@ -1,0 +1,30 @@
+{
+  "name": "Schoolcraft State Park",
+  "park_id": "00263",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00263#homepage",
+  "address": "9042 Schoolcraft Lane NE\nDeer River, MN 56636\nMailing address:\nSchoolcraft State Park\nC/O Grand Rapids Area Office\n1201 East Highway 2\nGrand Rapids, MN 55744",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00263.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00263_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00263_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00263_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00263_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00263_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00263_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Hiking",
+    "Canoeing",
+    "Picnicking",
+    "Fishing",
+    "Quiet Park/Great Relaxation"
+  ],
+  "park_information": {
+    "Park Information": "This secluded north woods park is the perfect place to unwind. Quiet and peaceful, the trail system leads hikers through the virgin pine forest that includes a white pine more than 300 years old. Canoeists and anglers enjoy the gentle waters of the Mississippi River. A boat access, picnic area, canoe and drive-in campsites are available to visitors.",
+    "Wildlife": "Waterfowl abound in this park on the banks of the Mississippi River. Watch for white-tailed deer and migrating birds.",
+    "History": "The park was named for Henry Rowe Schoolcraft, who with Anishinabe guide Ozawindib charted the headwaters of the Mississippi River. Schoolcraft was a long-time agent for the Chippewa Indians at Sault Saint Marie. During his term as Indian agent he wrote several volumes of customs, legends and history about the Indians. It was from his writings that Longfellow gathered the material for \"The Legend of Hiawatha.\" From studies of Schoolcraft's diary it is believed he camped in this area on his trip to the headwaters of the Mississippi. On the field at the southern end of the park is the site of the first recorded homestead in Torrey Township. It was a well-known stopping place for early river travelers and lumberjacks who worked the river. Many relics of the logging days have been found on the premises, as well as evidence of the Indians who camped here long before then. The cook shacks or wannigans as they were called, tied up near the mouth of the Vermillion River. It was from these flat-bottomed river boats that the hungry men who drove the logs down the Vermillion and Mississippi rivers were fed.",
+    "Geology": "The park is located in Cass County which is in a complex of glacial deposits. The park lies on outwash and till over Biwabik Iron Formation. In the marsh in the southwest corner of the park, there is an oxbow lake near the Vermillion River.",
+    "Landscape": "This 225-acre beauty is a wonderful place to escape. Quiet and peaceful, visitors have only the whisper of the wind through the pines to accompany their thoughts. Bird songs are muted by the overstory and footsteps are muffled by the spongy carpet of pine needles. The trails lead through a virgin pine forest and light filters through the branches of red pine, white pine, spruce, jack pine, and fir trees. Sit by the shore of the Mississippi River that meanders through the area. Watch the sunrise amid the grasses, large areas of wild rice, and beds of yellow and white water lilies."
+  }
+}

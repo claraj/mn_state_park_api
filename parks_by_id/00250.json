@@ -1,0 +1,30 @@
+{
+  "name": "Rice Lake State Park",
+  "park_id": "00250",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00250#homepage",
+  "address": "8485 Rose Street\nOwatonna, MN 55060",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00250.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00250_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00250_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00250_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00250_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00250_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00250_006.jpg"
+  ],
+  "highlights": [
+    "Spring and Fall Migration",
+    "Birdwatching",
+    "Great Variety of Songbirds/Waterfowl",
+    "Wildflowers",
+    "Canoeing",
+    "Nature Observation"
+  ],
+  "park_information": {
+    "Park Information": "Long ago, American Indians harvested wild rice from this lake where today, the shallow waters and marshy edges of Rice Lake attract many waterfowl during migrations. Rice Lake is a major wetland in the area. Visitors enjoy camping under the tall hardwoods, photographing spring wildflowers, picnicking, and birdwatching. For a more secluded camping experience, paddle across the lake and camp in a canoe campsite. Winter activities include cross-country skiing and snowmobiling on the trails.",
+    "Wildlife": "The park holds a variety of habitats. Marshes, lakes, meadows, and woods attract a large number of birds, especially waterfowl, during spring and fall migrations. The forested areas attract seven species of woodpeckers, including the pileated woodpecker. During spring migration, look for whistling swans; Canada, snow, and blue geese; diving ducks, Western and pied-billed grebes. Black terns nest in the park.",
+    "History": "Rice Lake is the headwater source for the south branch of the middle fork of the Zumbro River. The lake was first dammed to provide energy for the water-powered mill located further to the east at Wasioja. Occasionally, Rice Lake became depleted, requiring the mill to shut down. North of the park boundaries, a stagecoach route followed the \"Ridge Road\" in the mid-1800s. There was a promising young village of Rice Lake on this road, but the railroads came, and changed the town's future as newer towns, with more promise, sprang up. The only sign that remains of this village today is the Rice Lake Church, built in 1857, located on the northern boundary of the park. It can be seen today along Dodge County Highway 20.",
+    "Geology": "In previous geologic eras, a shallow sea covered most of North America, including southwestern Minnesota. On its bed, layers of sediment turned to rock, hundreds of feet thick. The bedrock of this area is identical to that found to the east in Minnesota's blufflands. During this period of time, ice advanced across Minnesota four times. The surface and land forms found in the park were formed during the Kansan Ice Age. Rice Lake itself was formed by a depression in a huge pile of Kansas drift.",
+    "Landscape": "The land known today as Rice Lake State Park was originally located in a vast oak savanna, known as Minnesota's southern oak barrens, that covered about seven percent of the state extending from the Twin Cities on the north to the Iowa border and beyond. It formed a broad transition zone between the prairies to the west and the deciduous forests to the east. Originally, the dominant vegetation was prairie with occasional groves and scattered individual burr oak trees. Today, remnants of the oaks still remain at the park, and prairie vegetation has reappeared through restoration efforts."
+  }
+}

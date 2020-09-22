@@ -1,0 +1,30 @@
+{
+  "name": "Carley State Park",
+  "park_id": "00130",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00130#homepage",
+  "address": "c/o Whitewater State Park\n19041 Hwy 74\nAltura, MN 55910",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00130.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00130_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00130_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00130_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00130_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00130_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00130_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing/Trout Stream",
+    "Spring Wildflowers",
+    "Hiking",
+    "White Pine Stands",
+    "Bluebells in May"
+  ],
+  "park_information": {
+    "Park Information": "Beauty and quiet, that is the essence of Carley State Park. In the spring, delicate bluebells (Mertensia virginica), and other wildflowers carpet the valley with a profusion of color. Hike along the trail that follows the Whitewater River and take in the grand old white pines. Listen for the sweet song of orioles, song sparrows, house wrens, and indigo buntings. Enjoy the picnic area, play on the swings or practice softball. Try your hand at horseshoes or sit back and see a red-tailed hawk ride thermals in the sky. The north branch of the Whitewater River is a designated trout stream and provides habitat for brown trout. Rustic campsites are located near the picnic area.",
+    "Wildlife": "The park's hardwood forest and adjacent farmland is home to white-tailed deer, beaver, coyotes, red and gray fox, pileated woodpeckers, great horned owls, and many migratory songbirds.",
+    "History": "The Dakota once hunted, farmed and gathered wild food in and around the Whitewater River Valley. They gave the Whitewater River its name because the river turned a murky white color in the spring as high water eroded the light colored clay of the valley floor. In 1851, the United States government and the Dakota signed a treaty that opened most of southern Minnesota for European settlers. The nearest settlement to the park, Plainview, was named for the large, upland fields of prairie grass that surrounded the river valley. The land for the park was donated to the State of Minnesota in 1948 by State Senator James A. Carley and the Ernestina Bolt family in hopes of preserving an outstanding grove of native white pines. In 1957, a severe hailstorm ravaged the trees. The stand of white pines towers in the steep, rugged valley of the Whitewater River, opposite the picnic area, and can be seen from the trail observation platform.",
+    "Geology": "Beginning 450 million years ago, a shallow sea covered much of North America, including what is now southeastern Minnesota. Layers of sediment, hundreds of feet thick, were deposited on the sea bed and became cemented together to form the limestone bedrock. Although this area was not covered by the last glaciers, the effect of that period on the landscape is striking. Glacial action caused the formation of huge amounts of powdered rock and fine particles from its constant grinding. These fine particles, blown by the wind after the retreat of the glacier, were deposited over southeastern Minnesota in a thick blanket of soil known as loess. The surrounding rich farmland is a testament to the benefits of this soil type.",
+    "Landscape": "Carley State Park is located in the Bluffland Landscape Region. Towering white pines stand amid an oak forest at this beautiful park. Delicate wildflowers bloom in April and May and the trail winds around the north branch of the Whitewater River."
+  }
+}

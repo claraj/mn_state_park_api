@@ -1,0 +1,30 @@
+{
+  "name": "Sibley State Park",
+  "park_id": "00265",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00265#homepage",
+  "address": "800 Sibley Park Road Northeast\nNew London, MN 56273",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00265.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00265_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00265_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00265_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00265_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00265_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00265_006.jpg"
+  ],
+  "highlights": [
+    "Interpretive Programs",
+    "Bird Watching",
+    "Camping",
+    "Fishing/Canoeing",
+    "Hiking",
+    "Cross-Country Skiing"
+  ],
+  "park_information": {
+    "Park Information": "There is something for everyone at this popular west-central Minnesota State Park. Hike to Mount Tom, one of several high points in a 50-mile radius, and see a patchwork of forest, farmland, prairie knolls, and lakes. Summer visitors enjoy swimming, boating, and fishing on Lake Andrew. A canoe route invites adventurers to portage and canoe on Henschien Lake and Swan Lake. The park offers campgrounds, a modern group center, horseback camps, picnic area, and interpretive programs year-around.",
+    "Wildlife": "White-tailed deer, red and gray fox, coyote, raccoon, and ruffed grouse are inhabitants of the forest. Chipmunks, red and gray squirrels, mink, striped skunks, badgers, and woodchucks are other species visitors can see as they hike the trails at Sibley State Park. Birds common to Sibley include great blue herons, egrets, wood ducks, Canada geese, scarlet tanagers, indigo buntings, pelicans, loons and bluebirds.",
+    "History": "Peter Broberg, along with other residents, were successful in getting the Minnesota State Legislature to provide funds to purchase land which became Sibley State Park. Realizing that the area was a popular spot for more than the local people, the Legislature established Sibley as a state park in 1919. The park was named after Henry Hastings Sibley, Minnesota's first governor. In 1935 the Federal government sent the Veterans Conservation Corps to Sibley State Park. For the next three years, this group of up to 200 men built roads, buildings, and trails within the park. When the camp was finished, they left behind several granite buildings and a popular state park.",
+    "Geology": "Four times in the history of Minnesota, glaciers advanced from the north, covering the state with a sheet of ice up to two miles thick. During the last of these advances, as recent as 10,000 years ago, most of the features of the Minnesota landscape were formed.",
+    "Landscape": "The forest is dominated by oak, red cedar, ironwood, green ash, aspen, maple, and basswood. On the knolls, remnants of prairie grasses still grow. Some of the fields which had been cleared and farmed by settlers have now been restored to native prairie grasslands and oak savanna."
+  }
+}

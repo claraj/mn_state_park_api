@@ -1,0 +1,29 @@
+{
+  "name": "Grand Portage State Park",
+  "park_id": "00173",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00173#homepage",
+  "address": "9393 East Highway 61\nGrand Portage, MN 55605",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00173.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00173_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00173_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00173_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00173_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00173_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00173_006.jpg"
+  ],
+  "highlights": [
+    "Minnesota's Highest Waterfall",
+    "Hiking",
+    "Scenic Views",
+    "Picnicking",
+    "Spring/Summer Wildflowers"
+  ],
+  "park_information": {
+    "Park Information": "Torrents of wild water plummet 120 feet over the High Falls down to the Pigeon River in this park on the U.S. - Canadian border. The falls, the highest in the state, presented a serious obstacle to river travel, so a \"carrying place,\" or portage, was necessary. American Indians created the ancient nine-mile trail from Lake Superior to bypass the falls. This trail became known as \"The Grand Portage.\" Today, visitors of all abilities can take a one-half mile trail and boardwalk to the falls overlook area. The park is designed for day use only and contains mixed hardwood-conifer forests and hiking trails along the banks of the Pigeon River. The spectacular scenery sets the stage for recreational opportunities that include hiking, photography, and picnicking. The park lies within the Grand Portage Indian Reservation and is bordered by Canada on the north and east. Lake Superior is about one mile east of the park.",
+    "Wildlife": "The glacial ridges in the park add to a varied terrain which harbors an abundance of wildlife. The channeled bays and river islands below the falls are home to osprey, eagle, otter, beaver, moose, and great-blue heron. Visitors can expect to see white-tail deer and black bear along with other small animals and birds.",
+    "History": "Git-che-O-ni-ga-ming and Grand Portage are Ojibwe and French words for \"a great carrying place.\" Grand Portage State Park and the surrounding area is rich in Indian and fur trade history. To American Indians, voyageurs and fur traders in the 1700s, the natural features of the area were an awesome sight. Travelers and traders were faced with a 120-foot waterfall, the thundering rapids of the Pigeon River, cliffs, and rocky terrain that was impossible to cross. The only option was to go around these obstacles. The nine-mile trek became known as \"The Grand Portage\" and ultimately gave the area its name. The park lies within the Grand Portage Indian Reservation and is bordered by Canada on the north and east. Lake Superior is about one mile east of the park. The park was established in 1989 through the cooperative efforts of the State of Minnesota and the Grand Portage Band of Chippewa Indians. A unique situation exists in that this is the only state park not owned by the State of Minnesota. The land is leased from the Bureau of Indian Affairs (BIA) which holds it in trust for the Grand Portage Band. The development and operation of the park rests primarily with the Department of Natural Resources and is implemented through the Division of Parks and Recreation.",
+    "Geology": "The geology of High Falls is a story of fire and ice. According to geologists, it begins in the middle of the Precambrian Era about 1.9 billion years ago. An ancient sea covered much of what is now Minnesota, and deposited mud and sand that hardened over time into a thick layer of bedded shales and sandstones known as the Rove Formation. These are the layered rocks you can see along the highway northeast of Grand Portage as well as along the gorge of the Pigeon River below the falls. About 1.1 billion years ago, the continent began to spread along a rift that extended from what is now eastern Lake Superior to Kansas. Basaltic lava poured out along this zone, making most of the rocks along the North Shore, while here in Grand Portage, diabase intrusions penetrated the older Rove shales along large vertical fractures, forming dikes. The High Falls of the Pigeon River are made by a diabase dike that is very resistant to erosion, especially compared to the surrounding Rove shales. Much later, starting about 2 million years ago, great glaciers, originating in Canada, advanced many times into this area, with warmer interglacial climates between each advance. The most recent glacial retreat occurred only around 10,000 years ago. Water filled the huge basin (now occupied by Lake Superior) that had been scooped out by the glaciers, and the land under and around the basin gradually rebounded from the weight of the ice and the lake level slowly receded.",
+    "Landscape": "The ridges around Grand Portage State Park would have first emerged as an isolated group of offshore islands. As centuries passed, gravel was deposited in terraces by the retreating lake. The path to High Falls cuts directly through one of these gravel terraces. About 9,000 years ago, the lake level dropped to a point where the river mouth would have been at the lower end of the High Falls gorge. If High Falls is a post-glacial landform, then the gorge is only about 9,000 years old. There is speculation among geologists that the gorge was cut before the glaciers came, filled with sediment, and was re-excavated after the lake level dropped. There is evidence for this happening in several other North Shore river valleys."
+  }
+}

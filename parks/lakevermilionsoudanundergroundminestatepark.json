@@ -1,0 +1,30 @@
+{
+  "name": "Lake Vermilion-Soudan Underground Mine State Park",
+  "park_id": "00285",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00285#homepage",
+  "address": "Summer Mine Entrance: 1302 McKinley Park Road\nWinter Mine Entrance: 1379 Stuntz Bay Road, Soudan, 55782\nLake Vermilion Unit Entrance: U.S. Highway 169, Soudan, MN 55782\nMailing address: P.O. Box 335, 1379 Stuntz Bay Road, Soudan, MN 55782",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00285.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00285_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00285_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00285_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00285_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00285_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00285_006.jpg"
+  ],
+  "highlights": [
+    "Mine Tours and Hiking",
+    "Campground and Day Use Areas",
+    "Historic Site",
+    "Lake Recreation and Public Water Access",
+    "Geologic Formations",
+    "Birding and Wildlife Watching"
+  ],
+  "park_information": {
+    "Park Information": "Adventure abounds at Lake Vermilion-Soudan Underground Mine State Park! Tour the historic underground mine, take a boat out or cast a line on Lake Vermilion, or hike through acres of old growth pine forest. The addition of nearly 3,000 acres and five miles of Lake Vermilion shoreline in 2010 adds even more opportunities to experience the wonders of northern Minnesota.",
+    "Wildlife": "The park is home to northern songbirds, loons, hawks, and owls. White-tailed deer, black bears, timber wolves, fishers, and many smaller animals also live in the park.",
+    "History": "Mining has been a part of this parks past since 4,000 B.C. Starting with Native Americans the lands rich geology has been utilized for many purposes. From quarried rock outcrops to the Iron Ore production of more recent years the land brought people and the culture of the area to life.",
+    "Geology": "After a number of expeditions into the area by a geology team who verified the quality of the ore, Tower formed the Minnesota Iron Company to buy land on the east side of the lake. Captain Elisha Morcom and his crew of miners arrived in 1884 to establish Minnesota\u2019s first Iron Ore Mine. On July 31, 1884, the first shipment of ore left for Two Harbors. By the 1890s, the mining process was converted to an underground operation and soon it was to be known as the \u201cCadillac\u201d of underground mines.",
+    "Landscape": "Electricity came in 1924. A new hoist, pumps, electric crusher, and other equipment was added. The high grade, extremely hard ore was in high demand. After World War II, the high cost of operating the Soudan Mine reduced profits. Changing technology and high operating costs forced the mine to close in 1962."
+  }
+}

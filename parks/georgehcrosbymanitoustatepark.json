@@ -1,0 +1,29 @@
+{
+  "name": "George H. Crosby Manitou State Park",
+  "park_id": "00163",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00163#homepage",
+  "address": "Send mail c/o Tettegouche State Park\n5702 Highway 61\nSilver Bay, MN 55614",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00163.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00163_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00163_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00163_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00163_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00163_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00163_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Hiking",
+    "Scenic views",
+    "Waterfalls",
+    "Wildlife"
+  ],
+  "park_information": {
+    "Park Information": "Come to this north-country wilderness park where waterfalls cascade through a volcanic canyon surrounded by majestic forest. The trails in the park are carved through a forest of fir, cedar, spruce, and northern hardwoods. Although the trails are steep and challenging for hikers and backpackers, they offer spectacular views.",
+    "Wildlife": "Secluded campsites are for backpackers only. Trout (brown, rainbow, and brook) and splake (a hybrid of brook and lake trout) reside in Benson Lake. Watch for moose, deer, bear, and wolves.",
+    "History": "This is a rugged, wilderness park where bears, wolves, moose and deer share the trails with hikers. The park has many different birds and small animals like snowshoe hare, red squirrels, Canadian jays, sharp-shinned hawks and beaver. Two large birds that hikers often see feeding along the trail are the ruffed and spruce grouse. North Shore birds | North Shore mammals, amphibians & reptiles.",
+    "Geology": "The park was a donation from George H. Crosby, a mining magnate who had been involved in the development of both the Mesabi and Cuyuna iron ranges. The state eagerly accepted the gift of this 3,320-acre tract on the Manitou River and formally established it as a state park in 1955. From the beginning, the decision was made to limit development of this park. Instead of the customary campground, the park has primitive campsites scattered through the park, accessible only by foot trail. George Crosby Manitou State Park was the first park in the system to be designed primarily for backpackers and remains a backpack-only park.",
+    "Landscape": "About 1.1 billion years ago, volcanoes spewed fiery lava which cooled and built up in thick layers which form the bedrock along most of the North Shore. Much later, when glaciers moved down from the north, they scraped and dislodged the rock. As the melting glacier retreated, it left deposits of rock and soil on top of the scoured bedrock. Between the many glacial advances, streams on the land gradually eroded through these deposits and into the bedrock. Today, the rough, tumbling waters of the Manitou River still work to sculpt the gorge through which it flows."
+  }
+}

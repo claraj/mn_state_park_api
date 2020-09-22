@@ -1,0 +1,29 @@
+{
+  "name": "Buffalo River State Park",
+  "park_id": "00124",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00124#homepage",
+  "address": "565 155th Street South\nGlyndon, MN 56547",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00124.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00124_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00124_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00124_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00124_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00124_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00124_006.jpg"
+  ],
+  "highlights": [
+    "Swimming Beach",
+    "Great Picnicking",
+    "Camping",
+    "Fishing",
+    "Native Prairie Landscape"
+  ],
+  "park_information": {
+    "Park Information": "Prairie lovers, this park is for you. Trails wind through one of Minnesota's finest and largest remnant prairies. Listen for bobolinks, prairie chickens, marbled godwits and upland sandpipers. A picnic area, swimming area and campground are located in the hardwood forest along the Buffalo River. The park is only 14 miles from the large metropolitan area of Fargo, North Dakota - Moorhead, Minnesota.",
+    "Wildlife": "The prairie areas within the park, and scientific and natural area (SNA), are not just for the wildflower enthusiast. In spring, the song of the bobolink brings the prairie alive. Prairie chickens, upland sandpipers, and marbled godwits (uncommon prairie birds) can also be seen and heard. Red foxes, badgers, coyotes, prairie toads, white-tailed deer and jackrabbits are also a part of the grassland community. Keen observers might also spot rare regal fritillary butterflies, plains pocket mice and northern grasshopper mice. Hikers will encounter deer frequently. Beavers can be seen along the river and moose have been observed moving through the area. The hardwood forest area of the park is home to four species of woodpeckers, great crested flycatchers, phoebes, numerous warblers, vireos and orioles. In all, more than 200 species of birds and 40 species of mammals use the park during the year.",
+    "History": "After the waters of glacial Lake Agassiz receded, they were replaced with waves of grassland as far as the eye could see. This living sea of summer flowers and green grass became home to nomadic hunters and herds of bison. Later, a portion of the Red River Oxcart Trail brought traders through the area. The trail paralleled the Buffalo River in the vicinity of the park and was used to transport furs, hides, tallow and other goods between St. Paul and Pembina, North Dakota. But it was the fertile flatland of the area that caught the eye of European settlers who farmed the land turned prairie into cropland. In 1937, the area became a state park thanks to the efforts of the Moorhead Rod and Gun Club who lobbied strongly for the need to preserve the area as a recreation spot for use by the community. The intent was to provide swimming and other recreational opportunities. It wasn't until 1979 that efforts began to restore the prairie ecosystem.",
+    "Geology": "Eight to ten thousand years ago, glacial Lake Agassiz once covered over 200,000 square miles, including 17,000 square miles in Minnesota. The rise and fall of this ancient lake formed the dominant landscape features within the park. As Lake Agassiz began draining, it left behind a fertile, level \"lake bottom\" landscape interrupted by prominent gravel ridges or beach lines. One of the lake's beach lines runs along the eastern edge of the park.",
+    "Landscape": "The prairie within the park, and the adjoining Bluestem Prairie Scientific and Natural Area (SNA), is judged to be one of the largest and best of the state's prairie preserves. The landscape contains more than 250 species of wildflowers and grasses including some plants now rare in Minnesota. The Buffalo River that runs through the park is bordered by a river bottom forest of elm, ash, cottonwood, oak, and basswood."
+  }
+}

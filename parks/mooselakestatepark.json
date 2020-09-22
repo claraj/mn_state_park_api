@@ -1,0 +1,29 @@
+{
+  "name": "Moose Lake State Park",
+  "park_id": "00239",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00239#homepage",
+  "address": "4252 County Road 137\nMoose Lake, MN 55767",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00239.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00239_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00239_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00239_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00239_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00239_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00239_006.jpg"
+  ],
+  "highlights": [
+    "Close Access To Recreation",
+    "Quiet Lake Offers Great Canoeing",
+    "Lots Of Family Activity Choices",
+    "Fishing/Fishing Pier",
+    "Wildflowers & Wildlife Viewing"
+  ],
+  "park_information": {
+    "Park Information": "Rolling hills surrounded by fields, woods, ponds and fishing lakes make this park popular for hikers, anglers, canoeists, swimmers and campers. Quiet Echo Lake is ideal for catching bass, northerns and panfish. The Willard Munger Trail is located two miles west of the park. The trail stretches for 60 miles from Hinckley to west Duluth.",
+    "Wildlife": "The open areas of the park, along with the mature hardwood stands, combine to provide habitat for a wide variety of wildlife species including white-tailed deer, geese, ducks and a variety of songbirds. Visitors fish for northerns, walleyes, and largemouth bass in Moosehead and Echo Lakes, and for pan fish in Echo Lake.",
+    "History": "Beginning in 1962, local residents began working for the establishment of a state park in order to increase the number of camping sites in the area. The park became a reality in 1971 and by August of 1977, a picnic area was completed on the north shore of Echo Lake. Over the years, additional campsites, picnic areas, hiking trails and a swimming beach have been added.",
+    "Geology": "The park lies in an area covered by glacial till and outwash deposits from the last glacier. Large ice blocks which melted after the glacier retreated created both Moosehead and Echo Lakes.",
+    "Landscape": "The park is a mix of fields, woods, woodland wildlife ponds, and fishing lakes. Wooded areas of the park contain mature aspen stands mixed with basswood, birch, and maple trees."
+  }
+}

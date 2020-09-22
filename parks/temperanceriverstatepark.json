@@ -1,0 +1,30 @@
+{
+  "name": "Temperance River State Park",
+  "park_id": "00268",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00268#homepage",
+  "address": "Send mail c/o Tettegouche State Park\n5702 Highway 61\nSilver Bay, MN 55614",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00268.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00268_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00268_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00268_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00268_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00268_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00268_006.jpg"
+  ],
+  "highlights": [
+    "Rock Climbing",
+    "Fishing",
+    "Hiking",
+    "Camping",
+    "Many Scenic Areas Along River and Lake",
+    "Rocky Landscape"
+  ],
+  "park_information": {
+    "Park Information": "Take the trail that winds along the edge of the Temperance River gorge and enjoy the rushing waterfalls surrounded by pine, spruce, cedar and birch forests. The rapidly flowing river has cut deep potholes in and along the riverbed. Hike the trail to Hidden Falls or connect up with trails into the Superior National Forest and the Cross River Wayside. Visitors come to camp and picnic along the shore of Lake Superior. Winter brings snowshoers and snowmobilers to tackle the hilly terrain. Carlton Peak, a recent addition to the park, is popular with rock climbers and offers even more recreational opportunities to park visitors.",
+    "Wildlife": "The variety of plant communities in the park provides habitat for many different types of wildlife species. Wildlife sightings are common in the park. Both the Temperance and Cross rivers are designated trout streams. Brook, brown and rainbow trout have been stocked in the Temperance River over the years. Both the brook and brown trout have now established natural populations. Chinook salmon and steelhead have also been introduced in the vicinity of the Temperance River.",
+    "History": "Pierre Esprit Radisson and Medard Chouart, Sier des Groselliers, were probably the first white visitors to the North Shore when they traveled up the shore of Lake Superior during 1660. Along with the Ojibwe, the French controlled the North Shore area until 1763. The first white settlers in the area were probably clerks at American Fur Company posts located along the shore in the 1830s. It is said the park got its name because, unlike other North Shore streams, the river had no bar at its mouth. At one time, the waters of this particular river flowed so deep and so strong into Lake Superior that there was no build-up of debris. This meant that there was no \"bar.\" What could you call a river without a bar? For an appropriate, if slightly tongue-in-cheek selection, \"temperance\" fits perfectly. The area became a state park in 1957. Campsites on both sides of the river, plus the park's hiking trails and picnic areas, draw a steady stream of visitors to this North Shore park.",
+    "Geology": "The bedrock in this park is all igneous (solidified from the molten state), and formed about 1.1 billion years ago. One of the most interesting features in the park is the narrow Temperance River gorge with its many waterfalls. The steep-gradient river has cut through the fractured, ancient lava flows of the river bed. Swirling water carried gravel and rocks which wore away the basalt and created large potholes. Over thousands of years, these potholes were dug deeper and wider, eventually connecting and creating the deep, narrow gorge. Nearby, more potholes were left high and dry as the river found its new, lower channel. Carlton Peak, the high knob in the northeastern part of the park, is made of a hard, massive rock called anorthosite. It consists of several huge blocks of this rock, which were carried up from many miles below the surface by the molten basalt lava.",
+    "Landscape": "The vegetation in the park today is very similar to that of presettlement time. Common forest trees include white and yellow birch, white pine, spruce, fir, and cedar. Topography in the park varies from wet lowland areas to dry upland sites and is reflected in the variety of vegetation."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Great River Bluffs State Park",
+  "park_id": "00244",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00244#homepage",
+  "address": "43605 Kipp Drive\nWinona, MN 55987",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00244.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00244_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00244_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00244_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00244_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00244_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00244_006.jpg"
+  ],
+  "highlights": [
+    "Scenic Blufftop Views of Mississippi River Valley",
+    "Fall Colors",
+    "Goat Prairies",
+    "Prairie Plants/Flowers",
+    "Camping/Hiking/Picnicking",
+    "Birdwatching"
+  ],
+  "park_information": {
+    "Park Information": "This is beautiful bluff country! The park contains two Scientific and Natural Areas (SNAs), King's and Queen's Bluff. The King's Bluff trail offers a breathtaking view of the Mississippi River Valley. Bring your binoculars; the river valley is a major flyway for waterfowl, eagles, and hawks.",
+    "Wildlife": "Explore the diversity in this park: oak-hickory and maple-basswood forests, pine plantations, fields, and goat prairies offer visitors excellent hiking and a diversity of wildlife. Look for ruffed grouse, wild turkeys, coyotes, and many species of songbirds.",
+    "History": "The park attracts more than 35 species of mammals, 17 species of reptiles and amphibians, and well over 100 species of birds. Rabbits, mice, and ground squirrels are common in the patches of prairie in the park. Predators of these mammals include red-tailed hawks, great horned owls, and red foxes. The hardwood forest provides habitat for opossums, skunks, Indigo buntings, ruffed grouse, and wild turkeys. In the winter, visitors report seeing bald eagles. The prairie draws uncommon species of wildlife: a lizard, the six-lined racer; and a prairie bird, the bobolink.",
+    "Geology": "When the European settlers came to the area, much of the upland floodplain was plowed for crops. The soil type and the slope of the upland caused soil erosion. Check dams were installed, but even so, many fields had to be abandoned.",
+    "Landscape": "In the early 1960s, the Department of Natural Resources (DNR), Division of Forestry purchased much of the land that now makes up the park. At the time, plantations of red and white pine, green ash, and walnut were started. The creation of Great River Bluffs State Park in 1976 on a bluff overlooking the Mississippi River Valley grew from a public need for better access to the bluffland area of southeastern Minnesota. The park's 2,835 acres lie within the Richard J. Dorer Memorial Hardwood Forest. Classified as a \"Natural State Park,\" park staff are dedicated to the protection and restoration of natural resources."
+  }
+}

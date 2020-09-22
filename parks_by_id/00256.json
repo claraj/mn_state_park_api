@@ -1,0 +1,29 @@
+{
+  "name": "Sakatah Lake State Park",
+  "park_id": "00256",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00256#homepage",
+  "address": "50499 Sakatah Lake State Park Road\nWaterville, MN 56096",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00256.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00256_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00256_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00256_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00256_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00256_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00256_006.jpg"
+  ],
+  "highlights": [
+    "Maple and Basswood Forests",
+    "Hiking",
+    "Biking - Access to Sakatah State Trail",
+    "Camping",
+    "Wildlife"
+  ],
+  "park_information": {
+    "Park Information": "Sakatah Singing Hills State Trail runs through Sakatah Lake State Park and stretches 39 miles from Mankato to Faribault. The paved trail offers hikers, bikers, skiers, and snowmobilers beautiful scenery through Minnesota's hardwoods. Sakatah Lake, a natural widening of the Cannon River, lures canoeists to paddle the calm waters, and anglers to catch walleye, large mouth and white bass, northern pike, and panfish. Whatever the season, visitors enjoy camping and picnicking.",
+    "Wildlife": "Open fields, wetlands, upland forests, lakes, and forest edges provide the perfect habitat for many southern Minnesota wildlife species. Deer, squirrel, raccoon, mink, rabbit, and coyote are animals commonly seen in the park. Listen for songbirds, woodpeckers, hawks, and owls in the park.",
+    "History": "Members of the Dakota Nation, the Wahpekute (Wah-pay-coo-tay) tribe inhabited the area that is now the park. They named the area Sakatah, which translates to \"the sights and sounds of children playing on the hill,\" or loosely translated as \"Singing Hills\" for the state trail. The Cannon and other area rivers served as an important Indian water route between south central Minnesota and Wisconsin. The Big Woods made land travel difficult and a water route allowed larger loads. Numerous trading posts and Indian villages existed along the route. A village site is believed to have existed in the area of the point separating Upper Sakatah and Lower Sakatah Lakes. In 1826 a trader by the name of Alexander Faribault established a post on the northeast shore of Cannon Lake -- one of the first white settlements in the area. He eventually opened at least five other trading posts along the Cannon River.",
+    "Geology": "Glacial activity 14,000 years ago shaped this landscape. The park sits on a moraine, a large mound of rock and mineral debris deposits. In some areas of the park, these moraine deposits are up to 400 feet deep. Glacial ice blocks left by receding glaciers formed depressions which filled with water creating lakes such as Sakatah Lake.",
+    "Landscape": "Original notes from surveyors in the late 1800s described the area as low, rolling land with second rate timber and prairieland with bur oak, basswood, aspen, butternut, elm, ash, and ironwood. This area is an example of a transition zone, or ecotome, between the Southern Oak Barrens and the Big Woods Landscape Regions."
+  }
+}

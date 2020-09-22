@@ -1,0 +1,30 @@
+{
+  "name": "Tettegouche State Park",
+  "park_id": "00269",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00269#homepage",
+  "address": "5702 Highway 61\nSilver Bay, MN 55614",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00269.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/tettegouche_8.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/tettegouche_1.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/tettegouche_2.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/tettegouche_3.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/tettegouche_4.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/tettegouche_5.jpg"
+  ],
+  "highlights": [
+    "Waterfalls",
+    "Wildlife/Peregrine Falcons",
+    "Hiking",
+    "Camping",
+    "Rock Climbing",
+    "Cross-Country Skiing"
+  ],
+  "park_information": {
+    "Park Information": "Come to Tettegouche for a great sense of the North Shore: the spectacular overlooks at Shovel Point; rocky, steep cliffs and inland bluffs; the cascading 60 ft. High Falls of the Baptism River; and the historic Tettegouche Camp where visitors can stay the night. This is a hiker's paradise with miles of trails that overlook the Sawtooth Mountains and wind down to inland lakes accessible only by foot.",
+    "Wildlife": "The Palisade Valley Unit features broad scenic vistas coupled with an expanse of multi-use, four-season trails. Two more trout lakes complement the fishing opportunities within the rest of the park.",
+    "History": "The park is also known for rock climbing opportunities and quality birdwatching in the spring, summer, and especially the fall.",
+    "Geology": "The wide variety of plant communities in the park supports more than 40 species of mammals. Most commonly seen are white-tailed deer, snowshoe hare, red squirrel and beaver. Less commonly observed are moose, black bear, red fox, and river otter. Occasionally, coyote, fisher pine marten, northern flying squirrel, and even the timber wolf are seen.",
+    "Landscape": "Northeastern Minnesota is recognized as one of the better areas in the nation to find rare birds. Diversity of habitat, geography and proximity to Lake Superior combine to produce a variety of bird life at Tettegouche. In all, 140 species have been identified. Kinglets, spruce grouse, and many northern warblers nest in bogs and coniferous forests in the summer. In fall, hawk migration along the shore of Lake Superior numbers in the tens of thousands. Winter is an excellent time to see northern owls, woodpeckers, finches, and unusual water birds. The park is home to peregrine falcons. North Shore birds | North Shore mammals, amphibians & reptiles."
+  }
+}

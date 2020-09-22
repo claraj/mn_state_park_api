@@ -1,0 +1,30 @@
+{
+  "name": "Charles A. Lindbergh State Park",
+  "park_id": "00136",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00136#homepage",
+  "address": "1615 Lindbergh Drive South\nLittle Falls, MN 56345",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00136.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00136_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00136_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00136_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00136_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00136_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00136_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Historic Site",
+    "Picnicking",
+    "Spring Wildflowers",
+    "Mississippi River",
+    "Great Family Reunion Park"
+  ],
+  "park_information": {
+    "Park Information": "Located on the Mississippi River, Charles A. Lindbergh State Park offers visitors a wooded campground, hiking and skiing trails, and a quaint picnic area. The picnic area includes a historic Work Projects Administration (WPA) picnic shelter and a stone water tower. Fish the waters of the Mississippi River, canoe Pike Creek, or walk the trails amid grand red and white pine, aspen, oak and prairie. Look for bald eagles year round. During your summer visit, stop in at the historic home of Charles A. Lindbergh, Sr., father of the famous aviator, Charles A. Lindbergh, Jr. The home and adjacent museum are operated by the Minnesota Historical Society (MHS) and are adjacent to the park.",
+    "Wildlife": "The Mississippi River provides habitat for waterfowl such as mallard, teal, wood duck, mergansers, goldeneye and Canada geese. Other common wildlife sited in the park include bald eagle, fox, white-tailed deer, raccoons, owls, and hawks. The areas along the Mississippi River and Pike Creek are ideal for searching out warblers and other songbirds.",
+    "History": "After Charles A. Lindbergh, Jr. flew the first trans-Atlantic solo flight, worldwide attention was focused on his boyhood home in Little Falls. The house was used by the family primarily during the summer months, but Charles, Jr. managed the farm full time for two years before he went to college in 1920. The ice house and the tenant farmer's house are the only other original buildings that remain. Charles A. Lindbergh, Sr., for whom the park is named, was the progressive Republican Congressman who represented central Minnesota from 1907-1917. He lost the Governor's race in 1918. He had the support in that election of the Nonpartisan League, one of the forerunners of the Farmer Labor Party. The Lindbergh house contains many of the family's mementos. The Lindbergh Visitor Center is near the home and showcases the lives and careers of three generations of Lindberghs in Minnesota. Call the center at 320-616-5421, or visit the Minnesota Historical Society  for current hours. Going back in history, the Dakota Indians used the Mississippi River as a primary transportation route, and camped along its banks. The Red River Oxcart Trail, a significant route for settlers, passed near the park on the east side of the Mississippi River. The segment was part of the Woods Trail, which stretched from St. Paul to Pembina, North Dakota. Little Falls served as a trading post along the trail. A county road along the river now follows the alignment of the Woods Trail from Little Falls to Royalton.",
+    "Geology": "This area was formed by glaciers some 100,000 to 10,000 years ago. The park is located on a till plain, a flat area where unsorted clay, sand, gravel and boulders were deposited. The boulders, which can be seen in the stream bed of Pike Creek under the southern trail bridge, are fragments of the Thomson formation. The boulders are composed of slate. The Mississippi River cuts through this formation approximately one mile north of the park in Little Falls.",
+    "Landscape": "The original vegetation consisted of pine forest with oak and grassland openings. Today, the forest is comprised of oak, with some aspen and conifers. A prairie section is located in the northwest portion of the park."
+  }
+}

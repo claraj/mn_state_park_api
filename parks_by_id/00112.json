@@ -1,0 +1,30 @@
+{
+  "name": "Beaver Creek Valley State Park",
+  "park_id": "00112",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00112#homepage",
+  "address": "15954 County 1\nCaledonia, MN 55921",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00112.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00112_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00112_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00112_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00112_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00112_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00112_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Trout Fishing",
+    "Hiking",
+    "Bird Watching",
+    "Spring Woodland Flowers",
+    "The \"Big Spring\""
+  ],
+  "park_information": {
+    "Park Information": "Nestled in the blufflands of southeastern Minnesota, Beaver Creek Valley State Park is known for its clear streams fed by the \"Big Spring.\" Its streams are home to brown and native brook trout. In spring, wildflowers that blanket the woodland hills and valleys attract migratory songbirds like the rare Acadian flycatcher, Cerulean warbler, and Louisiana waterthrush. These birds nest in the park. A hiking trail meanders along the stream and up into a maple-basswood and oak forest. Campers are lulled to sleep by the murmuring stream.",
+    "Wildlife": "The great diversity of plant species contribute to a great diversity of wildlife. Deer, raccoon, muskrat, mink, badger, red and gray fox, an occasional beaver, and wild turkey may be spotted in the park. Another interesting animal that resides in the park is the timber rattlesnake, which is seldom seen. If you encounter one, please leave it alone; they present little threat to the visitor. Birdwatchers flock to the park to see the treasured Acadian flycatcher and the Louisiana waterthrush.",
+    "History": "Historically, the area attracted European settlers because of rich agricultural soils, hardwoods and the many streams that made milling possible. Archaeological surveys indicate that the valley was once an Native American village site.",
+    "Geology": "The park is situated in one of the most interesting geologic areas in Minnesota, the \"driftless area.\" The area covers 10,000 square miles in adjoining parts of Minnesota, Wisconsin, Iowa, and Illinois, which were untouched by the most recent glacial advances. However, as the glaciers receded, torrents of meltwater poured into streams and rivers, carving deep rugged valleys. These rocky walls are made up of a layer of sandstone sandwiched between two layers of dolomite, which were deposited by inland seas between 450 and 500 million years ago.",
+    "Landscape": "Beaver Creek Valley State Park is in the Blufflands Landscape Region. It is a nature lover's paradise because of the diversity of natural communities. Bottomland hardwoods such as black ash, willow, box elder, cottonwood, and elm grow in the valley while a mix of maple, walnut, basswood and oak thrive above the valley. Small patches of native prairie and oak savanna occupy some of the south and west-facing slopes in the park."
+  }
+}

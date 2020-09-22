@@ -1,0 +1,28 @@
+{
+  "name": "Franz Jevne State Park",
+  "park_id": "00157",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00157#homepage",
+  "address": "State Highway 11\nBirchdale, MN 56629",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00157.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/franz_jevne_1.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/franz_jevne_2.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/franz_jevne_3.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/franz_jevne_4.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/franz_jevne_5.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/franz_jevne_6.jpg"
+  ],
+  "highlights": [
+    "Great Fishing",
+    "Hiking",
+    "Quiet",
+    "Peaceful Park",
+    "Scenic Hiking Trails"
+  ],
+  "park_information": {
+    "Park Information": "Secluded and peaceful, this park offers picturesque views of Ontario and the Rainy River. Short paths and a boat launch offer access to the river for fishing, where anglers can catch walleye, northern, small mouth bass and sturgeon.",
+    "Wildlife": "Pitch a tent in the rustic campsites, equipped with pit toilets, and a hand pump for water. A picnic area overlooks Sault Rapids.",
+    "History": "Beaver, wolf, and moose have been sighted in this park. Bird life is rich along the Rainy River! Songbirds and woodpeckers fill the forest with sound. And keep your eyes out for pelicans on the water and bald eagles roosting in the trees along the riverbanks.",
+    "Landscape": "In 1961, a National Park Service survey recommended that land along the Rainy River between International Falls and Baudette be set aside as a park. Some of the land was privately owned by the family of Franz Jevne, a lawyer in International Falls and later, in Minneapolis. Late in 1966, the sons of Franz Jevne offered to donate the acreage to the state for use as a park on the condition that it be named after their father. Although the 118-acre area is a small tract of land by comparison with other state parks, this park is among the most scenic areas along the Rainy River. In 1967, the Minnesota Legislature approved a bill to create Franz Jevne State Park."
+  }
+}

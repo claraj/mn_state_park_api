@@ -1,0 +1,27 @@
+{
+  "name": "Old Mill State Park",
+  "park_id": "00247",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00247#homepage",
+  "address": "33489 240th Avenue Northwest\nArgyle, MN 56713",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00247.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00247_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00247_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00247_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00247_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00247_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00247_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Wildlife",
+    "Historic Site"
+  ],
+  "park_information": {
+    "Park Information": "A log cabin and a steam-powered flour mill at Old Mill State Park are bold landmarks from the past. The grist mill still gets fired up once a year to grind flour.",
+    "Wildlife": "The Middle River meanders through the park and visitors can see deer, beaver, and ruffed grouse. Enjoy the prairie and the ever-changing parade of wildflowers along wooded trails.",
+    "History": "A swimming area, swinging bridge, picnic grounds, campground, and interpretive displays are popular among visitors.",
+    "Geology": "The river valley that runs through the park acts as an access corridor for many species. Beaver and raccoon are common as are white-tailed jackrabbit and snowshoe hare. In spring and fall, birds migrating through this portion of Minnesota add another dimension to the park's wildlife. Warblers and finches, among others, are abundant during migration. You might even be able to observe magpies and scarlet tanagers. About 100 species of birds reside in the park. The ground nesting marsh hawk is a common summer resident. Broadwing and red-tailed hawks hunt small animals, and eagles are often spotted passing through. Short-eared and long-eared owls have been sighted in the park.",
+    "Landscape": "The historic site area in the park was originally homesteaded in 1882 by the Larson family. Beginning in 1886, a series of mills were built in and around the park. The original mill was water powered. When it was destroyed by floods, it was rebuilt in 1889 as a wind-powered mill. That mill, too, was destroyed and rebuilt a short time later as a water-powered mill in an area outside of the park. John Larson, son of the original homesteader, started a mill at the same location but powered it with a Case steam engine No. A359. In 1897, both mills were moved to the area in the park where the \"old mill\" now stands . The mills were owned and operated by several people before being sold to the state in 1937. Rebuilt in 1958, the steam engine and mill are fired up each year as part of park special events and interpretive programs. The beach ridges of the old lake served as travel routes for Indians, traders, and settlers. For the early settlers, the beach ridge just east of the park was one of the travel lanes. Known as the Pembina Trail, the oxcart trail and the river crossing are still visible."
+  }
+}

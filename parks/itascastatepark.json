@@ -1,0 +1,30 @@
+{
+  "name": "Itasca State Park",
+  "park_id": "00181",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00181#homepage",
+  "address": "36750 Main Park Drive\nPark Rapids, MN 56470",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00181.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00181_001a.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00181_010.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00181_009.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00181_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00181_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00181_005.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing",
+    "Hiking",
+    "Historic Sites",
+    "Unique Ecosystem",
+    "Old Growth"
+  ],
+  "park_information": {
+    "Park Information": "Established in 1891, Itasca is Minnesota's oldest state park. Today, the park totals more than 32,000 acres and includes more than 100 lakes. Walk across the mighty Mississippi as it starts its winding journey 2,552 miles to the Gulf of Mexico. Stand under towering pines and visit landmarks of centuries gone by throughout the park. Camp under the stars or stay the night in one of our 45 overnight units. Explore Wilderness Drive past the 2,000-acre Wilderness Sanctuary, one of Minnesota's seven National Natural Landmarks.",
+    "Wildlife": "Wildlife. The diversity of vegetation in the park supports many wildlife species. Birding is excellent and visitors are encouraged to help spot and record the bird life they see in the park. Some birds you can expect to see include loons, grebes, cormorants, herons, ducks, owls, hummingbirds, woodpeckers, chickadees, nuthatches, kinglets, vireos, tanagers, finches, and warblers. Trails in the park are shared with deer, chipmunks, and squirrels. Beaver, porcupine, black bears, and wolves also reside in the park.",
+    "History": "Some 8,000 years ago, Indian hunters pursued wild animals for food in the Itasca State Park region. These early people ambushed bison, deer, and moose at watering sites and killed them with stone-tipped spears. The Bison Kill Site along Wilderness Drive in the park gives visitors more history about this period.",
+    "Geology": "A few thousand years later, a group of people of the Woodland Period arrived at Lake Itasca. They lived in larger, more permanent settlements and made a variety of stone, wood, and bone tools. Burial mounds from this era can be seen today at the Itasca Indian Cemetery.",
+    "Landscape": "In 1832, Anishinabe guide Ozawindib, led explorer Henry Rowe Schoolcraft to the source of the Mississippi River at Lake Itasca. It was on this journey that Schoolcraft, with the help of an educated missionary companion, created the name Itasca from the Latin words for \"truth\" and \"head\" by linking adjoining syllables: verITAS CAput, meaning \"true head.\""
+  }
+}

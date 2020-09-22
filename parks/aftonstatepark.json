@@ -1,0 +1,30 @@
+{
+  "name": "Afton State Park",
+  "park_id": "00100",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00100#homepage",
+  "address": "6959 Peller Avenue South\nHastings, MN 55033",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00100.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00100_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00100_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00100_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00100_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00100_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00100_006.jpg"
+  ],
+  "highlights": [
+    "Backpack Camping",
+    "Fishing",
+    "Swimming",
+    "Prairie Landscape",
+    "Hiking",
+    "Cross-Country Skiing"
+  ],
+  "park_information": {
+    "Park Information": "Grand oaks and delicate prairie flowers grace the rugged, rolling landscape of this park. Trails traverse remnant and restored prairies, wind down deep ravines and rise up to the grassy ridgetops and bluffs overlooking the scenic St. Croix River. The trails are perfect for hikers, horseback riders and cross-country skiers. The park offers visitors a swimming beach, backpack campsites and a visitor center with interpretive displays.",
+    "Wildlife": "Birdwatchers can observe hawks and waterfowl on the St. Croix flyway, bluebirds and meadowlarks in the grasslands, and waves of migratory birds in the floodplain. Deer, fox, and badgers live here along with the thirteen-lined ground squirrel, turkeys, gray and fox squirrels.",
+    "History": "The park was established in 1969 to preserve unique natural features and to provide opportunities for nature-oriented recreation.",
+    "Geology": "The park is cut by deep ravines which drop 300 feet to the river. The ravines display spectacular outcrops of sandstone and the rugged terrain affords spectacular views of the St. Croix River Valley.",
+    "Landscape": "The park is set in a rolling glacial moraine and bluffland. It contains a combination of oak openings and woodlands. The forests combine upland hardwoods with some pine plantations. Remnant prairies are being expanded and oak savannas are being restored through an aggressive resource management program that makes extensive use of volunteers. Park wildflowers include prairie pasque flowers and woodland ephemerals in the spring; butterfly weed and puccoons on the summer prairie; and sunflowers and blazing star in the fall."
+  }
+}

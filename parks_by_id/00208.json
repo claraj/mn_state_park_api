@@ -1,0 +1,30 @@
+{
+  "name": "Lake Bronson State Park",
+  "park_id": "00208",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00208#homepage",
+  "address": "3793 230th St\nBox 9\nLake Bronson, MN 56734",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00208.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00208_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00208_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00208_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00208_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00208_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00208_006.jpg"
+  ],
+  "highlights": [
+    "Largest Observation/Water Tower in MN State Park System",
+    "Historic WPA-Built Structures",
+    "Playground",
+    "Excellent Prairie & Aspen Parkland Habitat",
+    "Camping/Hiking",
+    "Visitor Center"
+  ],
+  "park_information": {
+    "Park Information": "From the observation tower in the park, view the prairie and aspen-oak forests or watch for deer, sharp-tailed grouse, and sandhill cranes.",
+    "Wildlife": "The South Branch of the Two Rivers fills Lake Bronson. The lake, which is actually a reservoir, offers visitors swimming, fishing, boating, great camping, and a tranquil backdrop for the picnic grounds. For those who prefer a prairie experience, one of the campground areas allows camping on the prairie.",
+    "History": "Trails for hiking, biking and snowmobiling provide visitors with great recreation choices.",
+    "Geology": "Deer, black bear, and occasionally wild elk from local herds can be observed on a trail hike. The park has a sizeable bird, mammal, reptile and amphibian population with deer and sharp-tailed grouse among the most abundant.",
+    "Landscape": "The fact that the town of Bronson was renamed Lake Bronson attests to the important role the park lake played in local history. When the region was without lakes, the drought of the 1930s caused wells to dry up in the area. Unable to sink deeper wells because of a layer of salt, it was thought the only solution for the future was to dam the South Fork Two River and create a sizeable artificial lake. Dam construction began in 1936. Next a combination water and observation tower, beach and bathhouse were built. The dam and facilities were then turned over to the state of Minnesota and in 1937, the area became Two Rivers State Park. The park was renamed Lake Bronson State Park in 1945."
+  }
+}

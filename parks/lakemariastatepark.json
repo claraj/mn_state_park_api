@@ -1,0 +1,30 @@
+{
+  "name": "Lake Maria State Park",
+  "park_id": "00217",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00217#homepage",
+  "address": "11411 Clementa Avenue Northwest\nMonticello, MN 55362",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00217.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00217_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00217_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00217_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00217_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00217_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00217_006.jpg"
+  ],
+  "highlights": [
+    "Secluded Backpack Campsites",
+    "Endangered Blandings Turtle",
+    "Hiking/Spring Wildflowers/Fall Colors",
+    "Nesting Osprey and Eagles",
+    "Remote Ski-in/Walk-in Camper Cabins",
+    "Cross-Country Skiing"
+  ],
+  "park_information": {
+    "Park Information": "Visitors who come to Lake Maria State Park will enjoy one of the few remaining stands of the \"Big Woods,\" a maple, oak and basswood forest that once covered part of southern Minnesota.",
+    "Wildlife": "The park is perfect for hikers, backpackers, horseback riders, and cross-country skiers who enjoy the challenge of the rolling terrain. Take a stroll on the boardwalk which winds through a marsh.",
+    "History": "Backpack sites, located on remote lakes and ponds throughout the park, are one to two miles from the trailhead parking. New log camper cabins, located near lakes and ponds, provide bunk beds for six people and a table and benches for campers who want more of the creature comforts. Lake Maria State Park is home to the Blandings turtle, easily identified by bright yellow spots on its shell. It is one of Minnesota's threatened species.",
+    "Geology": "The marshes, potholes, and lakes provide excellent habitat for wildlife. Approximately 205 different species of birds have been reported living in, or passing through on seasonal migrations. Visitors have seen bald eagles, Cooper's hawk, Franklin's gull, osprey, common egret, common loon, trumpeter swans, great blue heron, marsh hawk, and goldfinch. Owl species include the screech, great-horned, snowy, and barred.",
+    "Landscape": "Mammals include shrews, bats, moles, rabbits, woodchucks, red and grey squirrels, pocket gophers, beaver, mice, fisher, muskrats, mink, striped skunk, red fox, and white-tailed deer."
+  }
+}

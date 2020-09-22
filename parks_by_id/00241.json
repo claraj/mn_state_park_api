@@ -1,0 +1,30 @@
+{
+  "name": "Nerstrand Big Woods State Park",
+  "park_id": "00241",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00241#homepage",
+  "address": "9700 170th Street East\nNerstrand, MN 55053",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00241.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00241_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00241_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00241_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00241_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00241_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00241_006.jpg"
+  ],
+  "highlights": [
+    "\"Big Woods\" Landscape",
+    "Spectacular Spring Wildflowers",
+    "Fabulous Fall Color",
+    "Visitor Center",
+    "Self-guided Interpretive Trail",
+    "Hidden Falls Waterfall"
+  ],
+  "park_information": {
+    "Park Information": "Enjoy this park on foot, any season of the year. In the spring, the park is a wildflower garden where hepatica, bloodroot, Dutchman's breeches, and the dwarf trout lily bloom. The dwarf trout lily is only found here. Relax by Hidden Falls in the summer. The autumn brings a burst of red, orange, and gold in the maple-basswood forest, one of the last extensive stands of the \"Big Woods.\" When winter comes, hike, snowshoe, or snowmobile the trails through picturesque woods.",
+    "Wildlife": "Red and hoary woodland bats, raccoon, fox, deer, and red-bellied snakes are just a few of the residents in the park. Bird watchers will enjoy viewing scarlet tanagers, rose-breasted grosbeaks, indigo buntings, bobolinks, meadowlarks, and seven species of woodpeckers, including the \"Species of Special Concern\" red-headed woodpecker.",
+    "History": "When the first settlers arrived in 1854, they discovered an island of woods in the vast oak savanna prairie which now makes up Nerstrand Big Woods State Park. Sugar maple, basswood, oak, hickory, aspen, elm, ash, and ironwood trees shade the land. Over 200 varieties of wildflowers, along with countless varieties of ferns and mushrooms grew in the Big Woods.",
+    "Geology": "Nerstrand Big Woods State Park is comprised of two, nearly horizontal, layers: a layer of glacial drift about 150 feet thick overlying a layer of Platteville Limestone. The limestone is visible only where the drift has been eroded away at Hidden Falls and along Prairie Creek.",
+    "Landscape": "Nerstrand Big Woods State Park is spectacular for wildflower viewing in the spring. Feast your eyes on sharp-lobed hepatica and the dwarf trout lily which blooms in April, and the dwarf trout lily, which is a federally-listed endangered wildflower."
+  }
+}

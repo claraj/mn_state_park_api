@@ -1,0 +1,30 @@
+{
+  "name": "Jay Cooke State Park",
+  "park_id": "00187",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00187#homepage",
+  "address": "780 Highway 210\nCarlton, MN 55718",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00187.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00187_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00187_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00187_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00187_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00187_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00187_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Hiking",
+    "Swinging Bridge",
+    "Pioneer Cemetery",
+    "Thomson Dam",
+    "Oldenburg Point"
+  ],
+  "park_information": {
+    "Park Information": "Trailblazers: this park is a must! Park trails link up to the Willard Munger State Trail at the north edge of the park; perfect for backpackers, bikers (both mountain and tour), hikers, horseback riders, and skiers.",
+    "Wildlife": "Check out the wildflowers in the spring, and the vivid colors in the fall. Walk on the swinging suspension bridge high above the raging St. Louis River. Visit the historic cemetery and the gorge at Thomson Dam.",
+    "History": "The promise of food and protection make Jay Cooke State Park an important wintering area for white-tailed deer. Black bear, timber wolf, and coyote are among the largest of 46 animal species in the park. The pileated woodpecker, marsh hawk and the great blue heron are just a few of 173 species of birds that nest and feed in the park. Sixteen species of reptiles and amphibians (none of which are poisonous) are found in the park.",
+    "Geology": "When the 13 colonies were developing on the eastern seaboard, French fur trade was thriving in the Jay Cooke area because of the St. Louis River trade route. The Dakota Indians and the French traded for many years. As westward expansion increased, the Ojibwe drove the Dakota out to the plains. Shortly thereafter, disputes broke out between the French and the British over trapping rights. Eventually the fur trade slowed down and only a few small settlements remained.",
+    "Landscape": "Many years later, the railroads reached northern Minnesota. The \"iron horse\" brought substantial numbers of immigrant farmers northward. Although much land surrounding the park was cleared, the rough terrain was never suitable for farming."
+  }
+}

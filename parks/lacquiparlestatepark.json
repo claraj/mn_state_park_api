@@ -1,0 +1,30 @@
+{
+  "name": "Lac qui Parle State Park",
+  "park_id": "00197",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00197#homepage",
+  "address": "14047 20th Street Northwest\nWatson, MN 56295",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00197.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00197_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00197_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00197_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00197_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00197_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00197_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing",
+    "Bird Watching/Winter Eagle Sightings",
+    "Hunting",
+    "Canoeing",
+    "Cross-country Skiing"
+  ],
+  "park_information": {
+    "Park Information": "Lac qui Parle is a French translation of the name given to the lake by the Dakota Indians who called it the \"lake that speaks.\" If you visit in the spring or fall you'll understand why. The lake is a stop over for thousands of migratory Canada geese and other waterfowl. You'll hear a chorus of honking, quacking, and other vocalizations. Paddle the lake, or cast a line and catch walleye, northerns, perch, or crappie. Explore one of the trails by foot or horseback. Visit the historic Fort Renville and Lac qui Parle mission sites. While in the area, be sure to visit the 33,000 acre Lac qui Parle Wildlife Management Area.",
+    "Wildlife": "The management of wildlife -- white-tailed deer, geese and other animals -- is a major success story. In the fall of 1958, only 150 geese were counted at Lac qui Parle. Since then, management practices have brought as many as 120,000 geese at one time. The geese arrive in early March from their primary wintering post at Swan Lake, Missouri. Spring migrations continue through April.",
+    "History": "In late September, geese arrive and continue until the last birds leave in early December. Flights of whistling swans pass over Lac qui Parle in April and November. Pelicans nest in the area on an one-acre island.",
+    "Geology": "Shortly after 1826, Joseph Renville, an independent fur trader built a stockade overlooking the foot of Lac qui Parle. Within the stockade, Dr. Thomas Smith Williamson and Alexander Huggins founded the Lac qui Parle Sioux Mission in July, 1835.",
+    "Landscape": "The missionaries translated the Gospel and several hymns into the Dakota language. They also completed the first dictionary of the language. At the mission, Minnesota's first cloth was also made. Lac qui Parle was designated as a state park in 1941."
+  }
+}

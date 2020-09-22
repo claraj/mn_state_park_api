@@ -1,0 +1,28 @@
+{
+  "name": "Maplewood State Park",
+  "park_id": "00229",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00229#homepage",
+  "address": "39721 Park Entrance Road\nPelican Rapids, MN 56572",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00229.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00229_007.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00229_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00229_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00229_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00229_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00229_005.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing",
+    "Hiking",
+    "Horseback Trails"
+  ],
+  "park_information": {
+    "Park Information": "The maple forest turns brilliant shades of orange, gold, and red in the fall.",
+    "Wildlife": "Eight major lakes and many ponds offer water lovers places to swim, fish, boat, and simply relax.",
+    "History": "Lake Lida has a sandy beach and large picnic areas for visitors.",
+    "Geology": "Drive along the scenic route to observe the wildlife: the park is host to 150 bird species and 50 species of mammals.",
+    "Landscape": "The extensive trail system attracts hikers, horseback riders, and cross-country skiers."
+  }
+}

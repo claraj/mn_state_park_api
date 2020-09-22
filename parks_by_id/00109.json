@@ -1,0 +1,30 @@
+{
+  "name": "Bear Head Lake State Park",
+  "park_id": "00109",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00109#homepage",
+  "address": "9301 Bear Head State Park Road\nEly, MN 55731",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00109.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/bear_head_lake_1.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/bear_head_lake_2.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/bear_head_lake_3.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/bear_head_lake_4.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/bear_head_lake_5.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/bear_head_lake_6.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing",
+    "Great Hiking Trails",
+    "Wilderness Atmosphere",
+    "Wildlife",
+    "23 Miles of Lakeshore"
+  ],
+  "park_information": {
+    "Park Information": "Secluded in the Northwoods, this park contains pristine lakes; it is home to black bears, nesting eagles, wolves and moose. Stands of white and red pine trees tower over the birch, aspen and fir trees. Located just south of the Boundary Waters Canoe Area, the park shares a similar wilderness quality. Explore miles of shoreline by canoe. Swim at the beach, picnic in the shelter building, or fish for walleye, bass, crappies or trout. Trails in the park link-up with the Taconite State Trail and offer snowmobilers, skiers and hikers plenty to enjoy. Rent a three-bedroom guest house or camper cabin any season of the year.",
+    "Wildlife": "The northern forest that surrounds 674-acre Bear Head Lake is home to a variety of wildlife. Hiking along trails and roads gives visitors an opportunity to discover white-tailed deer, black bear, moose, wolves, red squirrels, chipmunks and snowshoe hares. Also in the park, birdwatchers can spot red-breasted nuthatches, pine grosbeaks, red crossbills, boreal chickadees and bald eagles.",
+    "History": "At the turn of the century, logging was the major activity around Bear Head Lake. In the early 1900s a sawmill was built on the south side of the lake which remained in operation until 1911. Between 1911 and 1913, several fires swept the area and consumed the forest inside the park boundary. After that, little was recorded about the area until 1961 when the Minnesota legislature created the park.",
+    "Geology": "Volcanoes and ancient seas produced the bedrock of the Bear Head Lake area. The bedrock of Ely greenstone and giants-range granite was scoured and gouged by glaciers. Eagles Nest and Bear Head Lakes, along with the park's rolling hills, were formed from the glacial action. Along the lakes and road cuts, visitors can see many different shapes and sizes of rock left by the glaciers.",
+    "Landscape": "This beautiful northern forest park is dotted with lakes that make it a canoeing and fishing paradise. The woods are made up of red and white pine, spruce, paper birch and fir on the highlands and tamarack, black spruce and white cedar on the lowlands. Small, clear trout lakes are set in a rugged terrain and give visitors a look at the type of scenic beauty that attracts so many visitors to the Boundary Waters Canoe Area Wilderness (BWCA) each year. The park is just south of BWCA access points."
+  }
+}

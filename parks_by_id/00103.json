@@ -1,0 +1,30 @@
+{
+  "name": "Banning State Park",
+  "park_id": "00103",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00103#homepage",
+  "address": "P.O. Box 643\nSandstone, MN 55072",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00103.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00103_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00103_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00103_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00103_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00103_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00103_006.jpg"
+  ],
+  "highlights": [
+    "Kettle River",
+    "Canoeing",
+    "Historic Sandstone Quarry",
+    "Wolf Creek Falls",
+    "Hiking",
+    "Kayaking"
+  ],
+  "park_information": {
+    "Park Information": "Treat yourself to a visit to Banning State Park, just minutes off I-35 near Sandstone. In the spring, watch daring canoeists and kayakers shoot the turbulent rapids at Blueberry Slide, Mother's Delight, Dragon's Tooth and Hell's Gate. In the summer, hike along the Kettle River amid dramatic sandstone rock formations with lush lichens, liverworts and mosses. Visit Wolf Creek Falls and take in the historic ruins of Banning Sandstone Quarry. The park is known for camping, picnicking, cross-country skiing, beautiful trails for hiking and the study of natural history.",
+    "Wildlife": "Banning State Park attracts birdwatchers who have sited 184 species of birds. In addition, 17 species of reptiles and amphibians, and 34 species of mammals live in the park. Common species include white-tailed deer, black bear, coyote, fox, raccoon, beaver, red and gray squirrels, snowshoe hare, and ruffed grouse.",
+    "History": "In the late 1890s, the Banning Sandstone Quarry employed 500 workers who chiseled the rock into massive blocks. The strength and pink color of this sandstone made it very popular for building construction. On September 1, 1894, the great Hinckley forest fire swept through the area inflicting heavy financial losses on the company and on the St. Paul and Duluth Railroad line serving it.",
+    "Geology": "Business resumed after the fire and by 1896 a village was platted on the fields above the quarry. The village was named in honor of William L. Banning, president of the St. Paul and Duluth Railroad. The village grew and by the turn of the century it was incorporated with a population of approximately 300. By this time, however, contractors were beginning to use structural steel for building construction. By 1905, all work at the quarry ceased.",
+    "Landscape": "Fires continued to be a problem so that by 1912, the town of Banning virtually ceased to exist. Today, all that remains of the site are weathered ruins along the Kettle River. Banning State Park was established in 1963 by the Minnesota state legislature, with 5,246 acres."
+  }
+}

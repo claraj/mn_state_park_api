@@ -1,0 +1,30 @@
+{
+  "name": "Flandrau State Park",
+  "park_id": "00145",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00145#homepage",
+  "address": "1300 Summit Avenue\nNew Ulm, MN 56073",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00145.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00145_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00145_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00145_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00145_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00145_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00145_006.jpg"
+  ],
+  "highlights": [
+    "Shaded Campsites",
+    "Sand-bottom Swimming Pool",
+    "Enclosed Picnic Shelter",
+    "Scenic Overlooks",
+    "Hiking/Cross-Country Skiing",
+    "Modern Group Center"
+  ],
+  "park_information": {
+    "Park Information": "The gentle flowing Big Cottonwood River meanders through this southern park. The sand-bottom swimming pond, picnic area, campgrounds and group center attract many visitors every summer to this very popular state park. The terrain is diverse, offering views of wooded river bottoms, oxbow marshes and open grasslands. Hikers and cross-country skiers enjoy the flat trails on the bottom of the valley or more challenging routes on the oak-shaded bluffs. Visit historic stone buildings crafted by Works Progress Administration(WPA)crews. Vegetative features include goat prairies, small white lady's slippers, and the floodplain forest.",
+    "Wildlife": "White-tailed deer, raccoons and many types of birds common to wooded river bottom areas can be found in at Flandrau State Park.",
+    "History": "Originally named Cottonwood River State Park, after the river that runs through it, Flandrau was the site of a Work Projects Administration (WPA) camp during the late 1930s and early 1940s. Several buildings in the park are beautiful examples of the architectural work done by the WPA. During part of the 1940s, the camp was used as a World War II German prisoner-of-war camp. Today, the old WPA camp is used as the park's modern group center, complete with eight cabins, a dining hall, and two restroom buildings. During this same era, the Civilian Conservation Corps (CCC) built a dam in the park, impounding a reservoir of approximately 200 acres on the Big Cottonwood River. After the dam was damaged by high water in 1947, 1965 and 1969, the remaining parts of the dam, including a spillway, were removed in 1995. The river now flows free through the park. The park was renamed Flandrau by the state legislature on March 15, 1945, to honor Charles E. Flandrau. He helped draft the first Minnesota constitution and was a member of the first Minnesota Supreme Court. He also played a prominent role in New Ulm during the U.S.-Dakota War of 1862.",
+    "Geology": "Melturate (from melting glaciers) cut through 150 feet of rock, sand, clay and gravel deposited by glaciers during the Ice Age and formed the valley which is the Big Cottonwood River and Flandrau State Park. Under this glacial material is sandstone which was laid down millions of years ago by the great seas that once covered North America. Fossilized plant material and orange colored iron-oxide bands can be seen in the exposed sandstone near the park's eastern boundary.",
+    "Landscape": "Flandrau is on the eastern edge of the Minnesota River Country region. The Dakota inhabitants thrived in the tallgrass prairie of the area with its interspersed marshes, lakes and streams. Today, extensive farming has replaced the prairie. At Flandrau, visitors may enjoy a diverse landscape that includes heavily wooded riverine areas, segments of oak forest and grassland areas along the bluffs. The main landscape type is floodplain forest. Large cottonwoods and other deciduous trees provide scenic beauty and habitat for both birds and wildlife."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Lake Louise State Park",
+  "park_id": "00214",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00214#homepage",
+  "address": "c/o Forestville/Mystery Cave State Park:\n21071 County 118 Preston, MN 55965",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00214.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00214_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00214_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00214_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00214_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00214_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00214_006.jpg"
+  ],
+  "highlights": [
+    "Quiet Park",
+    "Seasonal Wildflowers",
+    "Peaceful Campgrounds",
+    "Canoeing on Lake Louise",
+    "Swimming Beach",
+    "Horse Trails Through Varied Habitat"
+  ],
+  "park_information": {
+    "Park Information": "Lake Louise lures hikers and horseback riders to its trails, which wind through open meadows and lush hardwoods. It also provides bicyclists with access to the paved Shooting Star State Trail, which bisects the park. A historic dam impounds the Upper Iowa and Little Iowa River, allowing for great paddling, swimming and fishing on Lake Louise. In addition, visitors swim, boat, or fish in Lake Louise. Hiking and horseback riding are also popular sports at this park. The lakeside picnic grounds and beach area draws visitors in the summer.",
+    "Wildlife": "The diversity of wetlands, rivers, lake, old fields, and wooded areas provide ideal habitat for many species of birds, mammals, reptiles, and amphibians, including the prairie skink. Look for fox squirrel, raccoon, beaver, red fox, and white-tailed deer, which is in abundance. This park is a great place to birdwatch, with over 141 species reported, including 19 species of warblers and 5 species of vireos.",
+    "History": "Lake Louise State Park is the site of Minnesota's oldest, continuous recreation area. Shortly after the area was surveyed in 1853, the town of LeRoy was platted, and the Upper Iowa River dam was constructed to provide power for a grist mill. Soon after, the railroad came through, but it passed south of the original townsite. Out of economic necessity, the town of LeRoy was moved south to its present location for access to the rails. When the grist mill was abandoned, the Hambrecht family who owned the land along the mill pond gave several acres to the village as a recreation area. At that time the site was known as Wildwood Park. The mill pond was named after a member of the Hambrecht family and still bears her name, \"Louise.\" In 1962, the city of LeRoy donated Wildwood Park -- about 70 acres -- to the state of Minnesota to form the nucleus of Lake Louise State Park. Today, the statutory boundary totals 1,168 acres.",
+    "Geology": "This area was lightly glaciated by the first two of four ice ages about 400,000 years ago. As a result, the limestone bedrock is close to the surface and only a thin layer of glacial soil covers the bedrock. In some places, the soft, porous limestone has dissolved, creating a depression in the landscape. Despite these few rather interesting depressions, the park's terrain is relatively level and ideal for the novice cross-country skier and horseback rider.",
+    "Landscape": "Lake Louise State Park offers visual relief from the vast pastureland cropland that surrounds the park. Within its boundaries, Lake Louise contains serene oak savanna, a mixture of grasslands and bur oaks, and scattered stands of hardwoods. Two spring fed streams join to form the Iowa River. A colony of Allium cernuum, commonly known as nodding wild onion, can be found in the park. This is a Minnesota threatened species. The nodding wild onion blooms in the spring, along with the purple-fringed orchid, woodland prairie flowers."
+  }
+}

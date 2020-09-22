@@ -1,0 +1,30 @@
+{
+  "name": "William O'Brien State Park",
+  "park_id": "00283",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00283#homepage",
+  "address": "16821 O'Brien Trail North\nMarine on St. Croix, MN 55047",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00283.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00283_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00283_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00283_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00283_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00283_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00283_006.jpg"
+  ],
+  "highlights": [
+    "Camping/Fishing",
+    "Canoeing on the St. Croix",
+    "Cross-country Skiing",
+    "Naturalist Programs",
+    "Bird Watching",
+    "Oak Savanna Restoration"
+  ],
+  "park_information": {
+    "Park Information": "A great \"get away\" park only one hour from the Twin Cities, William O'Brien provides a beautiful setting for quality recreation along the banks of the St. Croix River. Hiking trails offer quiet exploration of the park's rolling, wooded hills. For anglers, the channels of the St. Croix have northerns, walleye, bass and trout. Ideal for canoeing, the river is also a migratory pathway that offers visitors an exciting diversity of sights and sounds. In the winter, snowshoeing, skiing and camping attract enthusiasts.",
+    "Wildlife": "Racoon, mink, beaver and woodchucks are prevalent. Upland meadows and woods provide a great environment for white-tail deer and fox. Birdwatchers frequently spot woodpeckers, bluebirds, orioles, herons, raptors and a variety of warblers.",
+    "History": "The Dakota and Ojibwe Indians utilized the resources of the valley rich in fur-bearing animals, wild game, and useful plants. In the 1600s, European trappers arrived to engage in the lucrative fur-trade industry. Later, lumberjacks began to harvest the stands of white pine. Sawmills began to dot the St. Croix riverway and the industry flourished in the mid-1800s until the valley was cleared of white pine. William O'Brien, a lumber baron, bought much of the land once owned by the lumber companies. In 1947, his daughter donated 180 acres to be developed as a state park in memory of her father. Over the years, other privately owned pieces of land were added to the park which now totals 1,653 acres.",
+    "Geology": "Sandstone outcrops formed millions of years ago by inland seas are found along the St. Croix River. Glacial activity played a major role in developing the picturesque valley. As the huge glaciers lumbered south, they scoured the sandstone and deposited soil and rocks of various sizes. As large masses of ice melted, the tremendous volume of released water cut through the soft sandstone, creating the St. Croix River and landscaping the wide, boulder-strewn valley.",
+    "Landscape": "The variety of vegetation types, the St. Croix River floodplain, oak-hickory forests, scattered white pine areas, marshes, oak savanna, upland prairie and rolling meadows, provides habitat for diverse wildlife populations. Wildflowers give color to the spring woods and the summer fields. One of the best canoeing rivers in the nation, the St.Croix offers pristine scenery just minutes from a major metropolitan area."
+  }
+}

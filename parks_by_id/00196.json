@@ -1,0 +1,29 @@
+{
+  "name": "Kilen Woods State Park",
+  "park_id": "00196",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00196#homepage",
+  "address": "50200 860th Street\nLakefield, MN 56150",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00196.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00196_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00196_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00196_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00196_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00196_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00196_006.jpg"
+  ],
+  "highlights": [
+    "Peaceful/Quiet Park",
+    "Birdwatching",
+    "Hiking",
+    "Camping",
+    "Spring Wildflowers"
+  ],
+  "park_information": {
+    "Park Information": "For a quiet, relaxing time, hike the cool woodland trail which meanders along the tranquil Des Moines River, or enjoy the view of the river valley from Dinosaur Ridge Overlook. You'll find pleasant surprises as you explore small creeks, prairie grasslands, and oak savannas. Visitors enjoy camping, canoeing, fishing, picnicking and hiking.",
+    "Wildlife": "The Des Moines River provides aquatic habitat for beaver and muskrat. Resourceful anglers catch walleyes, northerns, catfish, and bullheads from the river's pools and numerous snags. Woodducks nest in tree cavities along the river's edge while herons quietly stalk the shallows and back waters. Deer, squirrels and woodpeckers are abundant in the park. Red admiral butterflies are seen all summer long while the swallowtail butterflies are around during late summer.",
+    "History": "Long ago a nomadic people hunted and lived in the Des Moines River area. It is thought they were here over 6,000 years ago and may have been the authors of the drawings and symbols etched in rock at the Jeffers Petroglyphs, 30 miles to the north. The Dakota people were the last known indigenous people of this area. For hundreds of years they hunted bison, elk and waterfowl in addition to collecting roots and herbs growing wild on the prairie. In the 1830s Joseph Nicollet led an expedition that traversed the Des Moines River Valley. He provided one of the most accurate descriptions and maps of southwestern Minnesota. Nicollet noted an area slowly rising to several hundred feet above the surrounding open plains. This Coteau des Prairie, \"highland of the prairie\" held grand views of prairies, rivers and lakes surrounding the area. Kilen Woods lies on the eastern edge of this region he called the \"Coteau des Prairies.\" The treaty of Traverse de Sioux of 1851 opened this hilly prairie country to the first pioneers and settlers. Settlers and Dakota Indians were involved in the U.S.-Dakota War of 1862. Settlers turned the prairie wilderness into farms and communities. The advent of railroads hastened the influx of immigrants into the county, and with them, the destruction of the prairie. Blizzards, droughts, grasshoppers and windstorms plagued early settlers of the river valley throughout the years.",
+    "Geology": "Many years ago glacial ice which was several thousand feet thick (known as the Des Moines Lobe) covered what is now southern Minnesota and Iowa. When the ice retreated, gently rolling hills, shallow prairie lakes, and countless wetlands remained. Many of the small lakes and wetlands have been drained for agricultural purposes. The Des Moines River begins at Lake Shetek in Murray County. It flows southeasterly through Minnesota and Iowa on its way to the Mississippi River. At Kilen Woods State Park, the river cuts through a hundred feet of rock, sand gravel known as glacial drift.",
+    "Landscape": "At Kilen Woods State Park, trails wind through the park's oak forest, sunny river bottom meadows, flood plain forest, oak savanna and prairie. Oak trees grow on the steep river valley slopes. Scattered bur oak trees, wild plums and hawthorns occur among prairie grasses and wildflowers at the edge of the Des Moines River Valley. Look for big bluestem, Indian grass, blazing-star, and purple coneflowers along the grassy ravines. Seven-foot tall prairie grasses, butterfly milkweed, and grey-headed coneflowers dominate the late summer river bottom prairie."
+  }
+}

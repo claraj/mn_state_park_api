@@ -1,0 +1,30 @@
+{
+  "name": "Savanna Portage State Park",
+  "park_id": "00259",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00259#homepage",
+  "address": "55626 Lake Place\nMcGregor, MN 55760",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00259.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00259_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00259_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00259_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00259_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00259_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00259_006.jpg"
+  ],
+  "highlights": [
+    "Hiking Trails",
+    "Swimming Beach",
+    "Fishing",
+    "Continental Divide",
+    "Snowmobiling",
+    "Historic Areas in Park"
+  ],
+  "park_information": {
+    "Park Information": "Time slips by when you visit this park of the north. Walk the Savanna Portage Trail, a historic trail traveled by fur traders, Dakota and Ojibwe Indians, and explorers more than 200 years ago. Savanna Portage State Park has 15,818 acres of rolling hills, lakes, and bogs. The Continental Divide marks the great division of water: water to the west flows into the Mississippi River; water to the east runs into Lake Superior. Visitors can hike the Continental Divide Trail and see forested vistas. During the summer, visitors enjoy swimming at Loon Lake. Bike enthusiasts can pedal on roads, or on dirt trails designated for mountain bikes. With four fishing lakes and a river, its common for anglers to catch panfish, trout and bass. Come winter, this park offers snowmobilers approximately 32 miles of trails to explore.",
+    "Wildlife": "Walk the hiking trails among the oak woods and see deer, bear, skunk, wolf, moose, and coyote. The bogs of the park attract many small animals and songbirds, especially warblers. The lakes are home to migrating loons and other waterfowl.",
+    "History": "Savanna means open grassland and refers to the expanse of marsh grass in the park. The park contains the historic Savanna Portage Trail that the Dakota and Ojibwe Indians, explorers and voyageurs found a challenge. The trail required a six mile portage across marsh, swamp, and forest which took an average of five days to reach the West Savanna River. Today, visitors can hike a large portion of the Savanna Portage Trail. Currently the eastern 1.6 miles of the trail is minimally maintained.",
+    "Geology": "Savanna Portage contains many features which are the result of the glaciers that moved through Minnesota. The large bogs are old glacial lakes that once covered many thousands of acres of land. These old lakes are the result of water that collected behind glacial moraine deposits. These mark the greatest advance of these massive ice sheets. When the great ice melted, the glacial lake water began to seek its natural drainage. These glacial lakes helped form the Savanna River and the St. Louis River which exists today.",
+    "Landscape": "Savanna Portage is a wilderness retreat. Northern hardwoods with birch, aspen and some conifers dominate the forest. Old-growth hardwoods and tamarack peat bogs provide diversity to the northern woods."
+  }
+}

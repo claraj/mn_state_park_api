@@ -1,0 +1,30 @@
+{
+  "name": "St. Croix State Park",
+  "park_id": "00253",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00253#homepage",
+  "address": "30065 St. Croix Park Road\nHinckley, MN 55037",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00253.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00253_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00253_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00253_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00253_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00253_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00253_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Extensive Trail System",
+    "CCC Construction Buildings",
+    "Two Scenic Rivers Offer Excellent Canoeing",
+    "Birding/Wildlife Observation",
+    "Firetower"
+  ],
+  "park_information": {
+    "Park Information": "Plan an extended visit to St. Croix. With over 34,000 acres and two great rivers\u2014the Saint Croix River, which is a National Scenic Riverway, and the Kettle River, a State Wild and Scenic River\u2014there's so much to do. Explore the rivers by canoe or with a fishing pole. Swim at Lake Clayton or climb a fire tower.",
+    "Wildlife": "The park has miles of trails for hikers, horseback riders, bicyclists, snowmobilers, and cross-country skiers. Campers can reserve drive-in, walk-in, backpack, and horseback campsites. Large groups can reserve the modern group centers or the primitive group camps.",
+    "History": "The habitats consist of both aspen and conifers, which benefits wildlife including black bear, bobcats, coyotes, beaver, raccoons, gray and red fox, and deer. Eastern timber wolves are also found in the park but are not commonly seen. Many species of birds thrive here: warblers, flycatchers, eagles, owls, and osprey are common along the St. Croix.",
+    "Geology": "The St. Croix River was an important trade route for hundreds of years, first for the Native Americans, and then for the French, English, and American fur traders. Although the fur trade ended during the mid 1800's, logging camps along the St. Croix River sprung up, all taking advantage of the river's force to float logs to lumber mills downstream.",
+    "Landscape": "By 1915, the logging era had moved on to other parts of the country. The newly cleared land was attractive to farmers and immigrants from all over the world, but these settlers struggled to make a living from the poor soil. In 1934, 18,000 acres of St. Croix area farmland was purchased, and in 1935, became the St. Croix Recreational Demonstration Area. Under the direction of the National Park Service, the Civilian Conservation Corps (CCC) and the Works Progress Administration (WPA), set out to transform these lands into group camps, roads, and campgrounds, with all the necessary buildings and structures. Most of their efforts remain in use today, with many of the buildings and structures listed on the National Register of Historic Sites. Interpretive signs throughout the former CCC campsite describe the lives and work of the CCC's in the St. Croix RDA, which in 1943, became St. Croix State Park."
+  }
+}

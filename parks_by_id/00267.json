@@ -1,0 +1,30 @@
+{
+  "name": "Split Rock Creek State Park",
+  "park_id": "00267",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00267#homepage",
+  "address": "336 50th Avenue\nJasper, MN 56144",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00267.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00267_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00267_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00267_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00267_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00267_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00267_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Water Based Recreation / Swimming Beach",
+    "Fishing",
+    "Wildlife/Waterfowl Observation",
+    "Hiking",
+    "Horse riding trails"
+  ],
+  "park_information": {
+    "Park Information": "Swim, fish, or boat the waters of Split Rock Lake, the largest body of water in Pipestone County. The lake is the predominant feature of this park. Stop by the Beach Side Trail Center for an excellent vista and to discover more about the area. Seven miles north of the park is the famous Pipestone National Monument.",
+    "Wildlife": "Lake and prairie animals inhabit the park. Meadowlarks, beavers, and waterfowl can be seen along the lakeshore. The southern, wooded part of the park is home to woodpeckers, fox squirrels, and other woodland animals.",
+    "History": "A large dam was completed in 1938 by the Works Progress Administration (WPA). The dam was constructed of Sioux Quartzite, a hard red rock that was quarried locally for use in the building of the dam and nearby highway bridge. The park was developed to provide water-based recreation for an area of the state that has few lakes.",
+    "Geology": "Three major ice movements during the ice age deposited a thick layer of sand, gravel, rocks, and clay called till, which are several hundred feet in some areas. Under the till lays a hard pink bedrock known as Sioux quartzite. This hard metamorphic rock was quarried in the area for use as a building material.",
+    "Landscape": "The park is located in the Coteau des Prairies (\"highlands of the prairie\") Landscape Region. Rock outcrops and shallow soil prevented much of the land within the park from being plowed. However, grazing by domestic livestock has diminished the native grasses and wildflowers. Late summer offers visitors a panorama of prairie colors among the wildflowers and grasses."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Glacial Lakes State Park",
+  "park_id": "00166",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00166#homepage",
+  "address": "25022 County Road 41\nStarbuck, MN 56381",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00166.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00166_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00166_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00166_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00166_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00166_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00166_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing"
+  ],
+  "park_information": {
+    "Park Information": "Stand on top of the scenic glacial hills and experience the vast, open prairie which once dominated Minnesota. Wildflowers and prairie grasses blanket the landscape from spring through fall.",
+    "Wildlife": "Swim, fish or boat (electric motors only) in the fresh, clear waters of 56-acre Signalness Lake. Canoe rental is available. A shady, spacious campground is available; horseback riders and backpack campers can camp at the trail center and at remote sites. A picnic area deck overlooks Signalness Lake.",
+    "History": "Many species of prairie and woodland birds make their home at Glacial Lakes. Take the Prairie-Woodland Interpretive Trail or visit marshland areas to see a variety of bird and mammal life. Squirrels, deer, beaver, wood ducks, raccoons, pileated woodpeckers and occasionally coyotes can be seen.",
+    "Geology": "Glacial Lakes was established as a state park in 1963 to preserve the rolling prairies of the area, the comparatively pristine condition of the land its rich prairie flora. The park preserves a special kind of landform and was an important addition to the Minnesota state park system.",
+    "Landscape": "Glacial Lakes State Park is located in western Minnesota in a geological area commonly known as the Leaf Hills. This region, a 10- to 19-mile-wide band of glacial hills unlike any other in the state, extends from Detroit Lakes to Willmar. As glacial ice advanced southward, hills and bluffs were sheared off down to the bedrock. When the ice retreated, it deposited the rocks, gravel and dirt once suspended within it."
+  }
+}

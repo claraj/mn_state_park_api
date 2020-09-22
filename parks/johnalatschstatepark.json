@@ -1,0 +1,25 @@
+{
+  "name": "John A. Latsch State Park",
+  "park_id": "00177",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00177#homepage",
+  "address": "c/o Whitewater State Park\n19041 Highway 74\nAltura, MN 55910",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00177.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00177_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00177_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00177_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00177_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00177_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00177_006.jpg"
+  ],
+  "highlights": [
+    "Scenic Views"
+  ],
+  "park_information": {
+    "Park Information": "John A. Latsch, a successful Winona businessman of the Izaak Walton League, loved to fish in the waters of the Mississippi River below the bluffs. Today, a half-mile hike up the deep ravine for a view is well worth the effort.",
+    "Wildlife": "From this vantage point, visitors relish a grand long view of the Mississippi River Valley, the green lush forest in the summer, and the colors in the fall.",
+    "History": "Many different species of birds pass through John Latsch State Park on their migration route. Coyotes, fox, opossum, timber rattlesnakes and white-tailed deer are present in the park.",
+    "Geology": "Steamboat captains on the Mississippi River relied on three rocky-headed bluffs called Faith, Hope, and Charity to navigate their way up and down the Mississippi River. These bluffs tower more than 500 feet above the river. In the 1850s, a busy steamboat landing and logging town was established below these bluffs. The logging operations supplied cut timber for the sawmills in the new town of Winona. For many years, the area was only visited by a few ambitious hikers who hiked the steep hills for a bird's-eye view of the valley. A local businessman, John A. Latsch, purchased some of these blufflands and persuaded an adjacent landowner to donate, along with him, approximately 350 acres to the state for a park in 1925. Latsch loved to fish in the waters below the bluffs of Faith, Hope, and Charity. Later, he donated land to the state of Wisconsin resulting in the formation of Perrot State Park, downriver from Winona.",
+    "Landscape": "John Latsch is located in the Blufflands Landscape Region, which is the \"driftless\" area. When Europeans settled to this area, they experienced a diverse habitat of river bottom forest, oak openings and barrens, and prairie."
+  }
+}

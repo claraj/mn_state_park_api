@@ -1,0 +1,30 @@
+{
+  "name": "Hayes Lake State Park",
+  "park_id": "00174",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00174#homepage",
+  "address": "48990 County Road 4\nRoseau, MN 56751",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00174.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00174_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00174_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00174_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00174_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00174_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00174_006.jpg"
+  ],
+  "highlights": [
+    "Scenic Views: Grefthen Bay Overlook",
+    "Hayes Dam Area",
+    "New Bog Boardwalk",
+    "History Trail",
+    "Great Wildlife Observation",
+    "Timberwolves"
+  ],
+  "park_information": {
+    "Park Information": "Some days it's just you, loons, and moose, while you traverse around Hayes Lake. Fed by the north fork of the Roseau River, the lake supports crappie, sunfish, large mouth bass, and northern. Birdwatchers have spotted over 200 species in or near the park. The summer is perfect to look for orchids, gentians, and blueberries (you can pick the berries, but not the flowers). Visitors also enjoy swimming and canoeing in the lake, along with camping. Trails for hiking, skiing, snowmobiling, and horseback riding connect with the Beltrami Island State Forest.",
+    "Wildlife": "Black bears are residents of the northern forest and are seen occasionally in the park. Moose, fisher, otter, bobcat, pine martin, lynx, and timber wolf can be seen in and around the park. More common wildlife include: deer, fox, raccoon, porcupine, beaver, mink and skunk. Along the shoreline, loons, herons, grebes, and other water birds can be observed.",
+    "History": "In the early 1900s, the first homestead was established in what is now the west portion of the park. Family graves of this first homesteader, Alva Hendershot, can be seen along the trail starting to the northwest of the dam. Farther down the trail, past the grave sites, the remains of the original homestead and farm can be seen. Some of the most scenic views of the river and forest can be seen along this trail and near the homestead site.",
+    "Geology": "Hayes Lake officially became a state park in 1967. Since the need for water-based recreation sites was a priority for the area, one of the first things to be developed for the park was the creation of a lake, formed by building a dam on the river. Both the lake and the park were named in honor of A.F. Hayes, an early settler of the land now included in the park and an advocate of the creation of the lake. The park was dedicated in 1973 and has continued to draw visitors who are attracted by the swimming and fishing opportunities offered by Hayes Lake.",
+    "Landscape": "When Glacial Lake Agassiz receded from large areas of northwestern Minnesota approximately 10,000 years ago, it left behind a flat landscape. The only prominent interruptions of this are the beach ridges and river valleys formed as the ancient lake retreated. The glacial lake-bottom landscape within the park was probably exposed to the erosive forces of wind and water 9,000 to 11,000 years ago and several thousand years earlier than areas to the northwest. As a result, from scenic points along the park's trails, visitors can see how the action of the water has cut, gouged and eroded a steep u-shaped, small floodplain valley."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Lake Bemidji State Park",
+  "park_id": "00205",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00205#homepage",
+  "address": "3401 State Park Road Northeast\nBemidji, MN 56601",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00205.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00205_007.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00205_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00205_008.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00205_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00205_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00205_004.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing",
+    "Unique Ecosystem",
+    "Bog Walk",
+    "Eagle/Osprey Viewing",
+    "Lake Recreation"
+  ],
+  "park_information": {
+    "Park Information": "This park is the perfect playground any time of year, offering visitors swimming, boating, fishing, birdwatching, hiking, camping, biking, picnicking, snowmobiling, cross-country skiing and year-round naturalist-led activities.",
+    "Wildlife": "Hikers can explore the beauty of a tamarack bog carpeted with showy lady's slippers, pitcher plants, dragon's mouth, grass pink, and insect-eating sundews. Most flowers are blooming in the bog during late spring and early summer.",
+    "History": "The diversity of vegetation in the park supports many wildlife species. Birdwatching is a favorite activity with hobbyists spotting red-eyed and warbling vireos, rose-breasted grosbeaks, and many other forest songsters. Loons, eagles, herons, even osprey can be seen on the lake. Hikers often come across deer, porcupine, squirrels, and chipmunks and even spot the occasional black bear. In the evening, visitors are treated to the sounds of gray treefrogs, spring peepers, and chorus of wood frogs. The sound of the barred owl, the flute-like song of the veery, and the hammering of a pileated woodpecker all add to the wilderness experience.",
+    "Geology": "For hundreds of years, the ancestors to the Dakota fished and hunted around Lake Bemidji. Later, the westward-moving Anishinabe reached the area around 1750. Early trader records identify Lake Bemidji as \"Lac Traverse\" which is French for diagonal. The Anishinabe knew the lake as \"Bemiji-gau-maug\" meaning cutting sideways through or diagonally. This was a reference to the path of the Mississippi River through the lake.",
+    "Landscape": "In the late 1800s, European immigrants were drawn to this region to harvest the prime white and Norway pine. During the peak of logging around the turn of the century, the lumber mills on the south shore of Lake Bemidji were the center of logging in the nation. The foundation of one mill is still visible near Nymore Beach. Logging artifacts are occasionally found in the lake by divers. Fortunately, a few areas within the park boundaries were still in a virgin state when the land was purchased by the government, thus preserving a remnant of towering forests so common in years past. In 1923, the Minnesota Legislature established Lake Bemidji as a state park. The park serves more than 135,000 visitors each year."
+  }
+}

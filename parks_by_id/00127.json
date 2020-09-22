@@ -1,0 +1,30 @@
+{
+  "name": "Camden State Park",
+  "park_id": "00127",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00127#homepage",
+  "address": "1897 Camden Park Road\nLynd, MN 56157",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00127.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00127_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00127_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/camden_redwood_exterior.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00127_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00127_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00127_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing",
+    "Fall Colors",
+    "Dakota Overlook",
+    "Wildflowers",
+    "Native and Restored Prairies"
+  ],
+  "park_information": {
+    "Park Information": "Camden State Park offers much for visitors to enjoy. Fish for brown trout in the Redwood River or bass and bluegill in Brawner Lake. Hike the trails or cool off in the spring-fed pool. Walk along the wooded river valley, climb the Dakota Valley Trail to the lookout for great fall colors, or go canoeing on Brawner Lake.",
+    "Wildlife": "Woodlands, maples, basswoods, oaks, and cottonwoods, dominate this park. Sun-drenched prairies, grasslands, and marshes offer added diversity. The park provides picnic areas, campgrounds (drive-in, horseback, and group), swimming, hiking, and cross-country skiing.",
+    "History": "One hundred fifty years ago, buffalo, elk, wolves, prairie chickens, and golden eagles were an integral part of life here. They are gone now. Today, mink, raccoons, songbirds, hawks, coyotes, and a large winter herd of whitetail deer flourish in the park. Bass and bluegill are found in Brawner Lake, and brown trout are stocked in the Redwood River each year.",
+    "Geology": "The Redwood River Valley was home to prehistoric and historic people. Archaeological research has revealed that people used this valley 8,000 years ago for hunting and fishing. An American Fur Company trading post was established in the valley in the middle 1830s. LaFramboise, a Frenchman, was hired to trade with the local American Indians from this post and manage the company's affairs in the Coteau des Prairies region. American and European settlers began coming to the valley by the late 1850s. In 1874 the village of Camden was established. By the late 1880s, Camden was thriving with a general store, hotel, blacksmith shop and a sawmill that was later converted to a grist mill. The town grew until 1888 when the railroad decided not to place a depot in Camden. By the early 1930s, the town of Camden was a memory. Still, the area then known as Camden Woods was used by local people for picnics and family gatherings. It was from this use that Camden State Park began in 1935.",
+    "Landscape": "Camden lies in an area of southwestern Minnesota called Coteau des Prairies, which means highland of the prairie. It is a high plateau that rises 900 feet, at its summit. During the last Ice Age, glaciers covered the shale and sandstone bedrock of this area with layers of mixed rock, gravel, sand clay, which together are known as till. Where the glaciers ended their advance or held steady, the till piled up into long, high ridges called moraines. Camden lies atop the Altamont moraine, the second highest and most eastern moraine in the Coteau. Not all of the topography in this park is a direct result of glacial activity. The Redwood River Valley was formed after the glaciers had receded to the north. Water draining and flowing off the land cut into the till and carved out the Redwood River Valley."
+  }
+}

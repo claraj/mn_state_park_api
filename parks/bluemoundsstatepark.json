@@ -1,0 +1,30 @@
+{
+  "name": "Blue Mounds State Park",
+  "park_id": "00121",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00121#homepage",
+  "address": "1410 161st Street\nLuverne, MN 56156",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00121.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00121_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00121_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00121_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00121_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00121_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00121_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Hiking",
+    "Rock Climbing",
+    "Wildlife",
+    "Bison Herd",
+    "Prairie Wildflowers / Grasses"
+  ],
+  "park_information": {
+    "Park Information": "Blue Mounds State Park is full of natural surprises. Start with the Sioux Quartzite cliff, rising 100 feet from the plains. A bison herd grazes on the prairie. Prickly pear cactus blooms in June and July. A sea of prairie grasses and flowers sway in the wind. The park is also a favorite for birdwatchers who want to see nesting blue grosbeaks and other birds. Enjoy camping and hiking.",
+    "Wildlife": "Bison, elk, wolves and prairie chickens roamed this part of Minnesota over 150-200 years ago. Today, a herd of bison resides in the park. The park has a small population of coyotes and a stable deer population. Birdwatchers can catch glimpses of several western species as well as the birds of the tallgrass prairie.",
+    "History": "Plains Indians depended on the bison to survive. Different weapons were used to kill bison including the lance, and the bow and arrow. It is not known if the park's quartzite cliffs were used by the Plains Indians to stampede the bison off the cliff. Local rumors have persisted for years on the existence of large quantities of bison bones piled at the base of the cliff.",
+    "Geology": "No evidence exists today to substantiate these claims and stories. The large rock outcrop, first known as \"The Mound,\" has provided the park area with an exciting past. The cliff appeared blue to settlers going west in the 1860s and 1870s. They named the prominent landmark, the Blue Mound. The mystery of the Blue Mound is not restricted to the cliffs. At the Mound's southern end is a 1,250 foot long line of rocks aligned in a east-west direction. Who built it and why is unknown. It is known that on the first day of spring and fall, the sunrise and sunset are lined up on this stone alignment. Visitors can hike to these rocks.",
+    "Landscape": "In 1934, Rock County citizens asked the U.S. government for a Work Projects Administration (WPA) project in the Blue Mounds area. The first phase of the project was completed in 1937 with the construction of two dams on Mound Creek. These once formed lakes in the park. In the 1950s, thousands of trees were planted around the lakes and in the campground. In 1961, the name of the park was changed from the Mound Springs Recreation Area to Blue Mounds State Park. That wasn't the only change: the park added three bison from the Fort Niobrara Wildlife Refuge near Valentine, Nebraska to start the present bison herd. Today, the Blue Mounds' herd is maintained at more than 100 bison."
+  }
+}

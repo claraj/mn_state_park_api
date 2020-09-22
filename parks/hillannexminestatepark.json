@@ -1,0 +1,30 @@
+{
+  "name": "Hill Annex Mine State Park",
+  "park_id": "00176",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00176#homepage",
+  "address": "Hill Annex Mine State Park\nC/O Scenic State Park\n56956 Scenic Highway 7\nBigfork, MN 56628",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00176.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00176_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00176_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00176_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00176_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00176_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00176_006.jpg"
+  ],
+  "highlights": [
+    "Tours of Mine/Facilities",
+    "Historic Site",
+    "Clubhouse Museum",
+    "Scenic Overlook",
+    "Picnicking",
+    "Fossil Hunt"
+  ],
+  "park_information": {
+    "Park Information": "Go down in history with a tour of the Hill Annex Iron Mine. On the 1 1/2-hour open pit mine tour, visitors make a spectacular descent into mining's past. Learn about the mine operation, the people who worked here, and where they came from. Discover marine fossils in northern Minnesota. Get a sense of the mine's deep, rich history. Learn how this National Historic Site played an important role in state, national, and world history.",
+    "Wildlife": "Trees and plants have grown back to revegetate this area scarred by the effects of open pit mining. Wildlife has also made a comeback and once again, the landscape includes deer, coyotes, timber wolves, bear and grouse. Most impressive is the return of birds of prey including eagles and hawks that come back to hunt and nest in the park. The park is also a release site for peregrine falcons.",
+    "History": "The history of Hill Annex dates back more than a century. The land was originally leased for mineral exploration in 1892. It was leased again in 1900 for a period of more than 50 years. Mining began in 1913 and continued until 1978. Hill Annex Mine produced 63 million tons of iron ore, and was the sixth largest producer in the state.",
+    "Geology": "Over its 60 years of operation, mining technology changed drastically. In the early days, horses provided the power. Eventually steam and then electrical power replaced the horse-drawn equipment.",
+    "Landscape": "When the high-grade ore finally played out, the mine was sold to the Iron Range Resources and Rehabilitation Board (IRRRB)for $1. The IRRRB developed the tour route, converted the clubhouse into a museum/visitor center, and gave tours of the mine for 10 years. In 1988, the Minnesota Legislature made Hill Annex Mine a state park."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Cascade River State Park",
+  "park_id": "00133",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00133#homepage",
+  "address": "3481 West Highway 61\nLutsen, MN 55612",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00133.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00133_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00133_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00133_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00133_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00133_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00133_006.jpg"
+  ],
+  "highlights": [
+    "Hiking",
+    "Camping",
+    "Skiing",
+    "Waterfalls",
+    "Fishing",
+    "Scenic areas along river and lake"
+  ],
+  "park_information": {
+    "Park Information": "Come to Cascade for the rushing river and grand waterfalls that lay within a gorge, lush with moss and ferns that grow on black volcanic rocks. Hike the trail through birch, spruce and white cedar; stop to see the views of Lake Superior, the largest freshwater lake in the world. Trails connect with the Superior Hiking Trail and the North Shore State Trail and offer great recreational opportunities to hikers and cross-country skiers. Drive-in and backpack campsites are available.",
+    "Wildlife": "Wildlife abounds in this hilly terrain. Moose, wolves, pine martens, bears, and many other animals have been sighted in this park. Wintering deer converge from the interior to Lake Superior's south facing slope. Here the temperatures are warmer, the snow is not as deep, it is more sheltered from the wind, and the conifers provide food and cover. During the summer months, the area along the North Shore abounds with a variety of birds and hawks. Visitors can enjoy being serenaded by the sweet chorus of warblers and chickadees.",
+    "History": "Years ago, the Civilian Conservation Corps (CCC) had a camp at the Cascade River. The men in this camp worked on a variety of conservation projects. Today, you can see some of their handiwork on the trails that wind along the river. One enrollee told how they cut and moved the large pine logs from Cascade down to Gooseberry Falls State Park to finish buildings in that park. From the beginning, Cascade was thought of as a state park, but it wasn't until 1957 that it was officially designated as such.",
+    "Geology": "Its geologic history is what really makes the dramatic landscapes of the North Shore and Cascade River State Park. It started 1.1 billion years ago, when the ancient continental bedrock split apart and became covered with molten lava which welled up from below the Earth\u2019s crust. This formed nearly all the bedrock underlying the North Shore, including this park. Soon after this intense volcanism stopped, streams deposited sediment over the lava beds. Much later, starting about 2 million years ago, great glaciers from the north scoured the area several times, leaving the present Lake Superior basin. Erosive forces, especially the rivers and lake waves, are still in action today. The Cascade River, one of the largest of the North Shore rivers, is constantly deepening its gorge as it cuts down through the ancient basalt lava flows.",
+    "Landscape": "Aptly named, the Cascade River flows down one ledge after another for a total drop of 900 feet in the last three miles of its journey to Lake Superior. The park setting is a boreal hardwood-conifer forest of aspen, birch, fir, spruce and cedar. Visitors can stand on the footbridge that spans the river, or at any of the viewing spots above the river, and feel the vibration of the rushing torrent of water as it cascades down a volcanic canyon."
+  }
+}

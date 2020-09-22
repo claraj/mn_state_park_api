@@ -1,0 +1,28 @@
+{
+  "name": "Lake Shetek State Park",
+  "park_id": "00220",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00220#homepage",
+  "address": "163 State Park Road\nCurrie, MN 56123",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00220.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00220_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00220_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00220_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00220_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00220_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00220_006.jpg"
+  ],
+  "highlights": [
+    "Camping",
+    "Fishing",
+    "Bicycle Trail",
+    "Shetek Monument and Koch Cabin"
+  ],
+  "park_information": {
+    "Park Information": "The word \"Shetek\" is Ojibwe for \"pelican,\" a bird which visits Lake Shetek during the summer and fall. The park contains the largest lake in southwestern Minnesota, which forms the headwaters of the Des Moines River.",
+    "Wildlife": "Expect great fishing for walleye, northern, crappie, and bullheads. Loon Island, a 45-acre island on Lake Shetek, is accessible on foot via a causeway and includes an interpretive trail.",
+    "History": "Visit the Koch Cabin and monument memorializing pioneer settlers. The park includes a swimming beach, boat launch, campgrounds and a scenic six-mile loop bicycle trail into the town of Currie. Boat, canoe, and kayak rentals are available.",
+    "Geology": "A quiet hike on one of the park trails can yield a glimpse of a white-tailed deer, the sounds of bobolinks in the prairie, or the flight of a white pelican overhead. The wooded shoreline of Lake Shetek provides cover for white-tail deer, fox, mink, beaver, fox squirrels, muskrat, woodchuck and coyote.",
+    "Landscape": "Several wetlands in the park offer visitors an opportunity to view waterfowl, reptiles and amphibians. At Eastlick Marsh, interpretive signs and an observation deck with a spotting scope allow for close-up viewing and easy identification of coots, grebes, ducks, herons, and pelicans. Many species of waterfowl nest in and around the park in spring and early summer."
+  }
+}

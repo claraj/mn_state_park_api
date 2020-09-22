@@ -1,0 +1,30 @@
+{
+  "name": "Interstate State Park",
+  "park_id": "00178",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00178#homepage",
+  "address": "PO Box 254\n307 Milltown Road\nTaylors Falls, MN 55084",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00178.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00178_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00178_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00178_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00178_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00178_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00178_006.jpg"
+  ],
+  "highlights": [
+    "Scenic River Views",
+    "Canoeing",
+    "Camping",
+    "Fishing",
+    "Rock Climbing",
+    "Pothole Viewing"
+  ],
+  "park_information": {
+    "Park Information": "There is so much to do at Interstate State Park, located on the beautiful St. Croix River. Visitors can climb the cliffs of the St. Croix River Dalles, canoe the flat-water, watch kayakers rush through the rapids, or relax on an excursion boat. Spring brings a great diversity of wildflowers and in fall, the St. Croix River Valley forest is ablaze in the autumn colors of red, gold, and orange. The geology that formed this park intrigues visitors, and brings geologists from all over the world. At least 10 different lava flows are exposed in the park, along with two distinct glacial deposits, and traces of old streams valleys and faults. During the summer, hike the trails and explore the glacial potholes that make this park unique.",
+    "Wildlife": "Creeks and springs that flow into the St. Croix River support white-tailed deer, skunks, raccoons, squirrels, and many different birds. There are many places in the park to listen for bird songs and owl calls.",
+    "History": "In the 1800s, the threat of mining the St. Croix Dalles prompted leaders from Minnesota and Wisconsin to preserve the Dalles of the St. Croix River. Working together, the first interstate (Minnesota and Wisconsin) park in the nation was established. The Minnesota Legislature established the park in 1895; the Wisconsin Legislature followed in 1900. Today, visitors can hike both sides of the St. Croix River at Interstate Park in Minnesota and Wisconsin.",
+    "Geology": "About 1.1 billion years ago, earthquakes erupted from Taylors Falls to Lake Superior and caused at least 10 different lava flows. The hardened basalt rock from these lava flows partly formed the Dalles of the St. Croix and the bottom of the river. From 530 million years ago up until 70 million years ago, the state was washed by advancing and retreating seas. Evidence of these ancient seas is revealed in the sedimentary rocks and formations found in the park. These rocks contain fossil remains of ancient animals, evidence of various creatures, and ripple marks left in stone by the now vanished seas.",
+    "Landscape": "There have been many different St. Croix Valleys through the ages. The first formed about 70 million years ago and current valley formed about 10,000 years ago. A glacier formed both Glacial Lake Duluth, now Lake Superior, and Glacial Lake Grantsburg, now extinct. Glacial Lake Duluth was much larger than modern day Lake Superior. As this giant body of ice thawed, its meltwaters roared south to carve out the broad valley of the St. Croix. Only very resistant basalts were able to partially withstand the torrent, resulted in the dalles, potholes, and cliffs we see today."
+  }
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Afton State Park",
+    "park_id": "00100"
+  },
+  {
+    "name": "Banning State Park",
+    "park_id": "00103"
+  },
+  {
+    "name": "Bear Head Lake State Park",
+    "park_id": "00109"
+  },
+  {
+    "name": "Beaver Creek Valley State Park",
+    "park_id": "00112"
+  },
+  {
+    "name": "Big Stone Lake State Park",
+    "park_id": "00115"
+  },
+  {
+    "name": "Blue Mounds State Park",
+    "park_id": "00121"
+  },
+  {
+    "name": "Buffalo River State Park",
+    "park_id": "00124"
+  },
+  {
+    "name": "Camden State Park",
+    "park_id": "00127"
+  },
+  {
+    "name": "Carley State Park",
+    "park_id": "00130"
+  },
+  {
+    "name": "Cascade River State Park",
+    "park_id": "00133"
+  },
+  {
+    "name": "Charles A. Lindbergh State Park",
+    "park_id": "00136"
+  },
+  {
+    "name": "Crow Wing State Park",
+    "park_id": "00139"
+  },
+  {
+    "name": "Father Hennepin State Park",
+    "park_id": "00142"
+  },
+  {
+    "name": "Flandrau State Park",
+    "park_id": "00145"
+  },
+  {
+    "name": "Forestville/Mystery Cave State Park",
+    "park_id": "00148"
+  },
+  {
+    "name": "Fort Ridgely State Park",
+    "park_id": "00151"
+  },
+  {
+    "name": "Fort Snelling State Park",
+    "park_id": "00154"
+  },
+  {
+    "name": "Franz Jevne State Park",
+    "park_id": "00157"
+  },
+  {
+    "name": "Frontenac State Park",
+    "park_id": "00160"
+  },
+  {
+    "name": "George H. Crosby Manitou State Park",
+    "park_id": "00163"
+  },
+  {
+    "name": "Glacial Lakes State Park",
+    "park_id": "00166"
+  },
+  {
+    "name": "Glendalough State Park",
+    "park_id": "00167"
+  },
+  {
+    "name": "Gooseberry Falls State Park",
+    "park_id": "00172"
+  },
+  {
+    "name": "Grand Portage State Park",
+    "park_id": "00173"
+  },
+  {
+    "name": "Hayes Lake State Park",
+    "park_id": "00174"
+  },
+  {
+    "name": "Myre - Big Island State Park",
+    "park_id": "00175"
+  },
+  {
+    "name": "Hill Annex Mine State Park",
+    "park_id": "00176"
+  },
+  {
+    "name": "John A. Latsch State Park",
+    "park_id": "00177"
+  },
+  {
+    "name": "Interstate State Park",
+    "park_id": "00178"
+  },
+  {
+    "name": "Itasca State Park",
+    "park_id": "00181"
+  },
+  {
+    "name": "Jay Cooke State Park",
+    "park_id": "00187"
+  },
+  {
+    "name": "Judge C.R. Magney State Park",
+    "park_id": "00193"
+  },
+  {
+    "name": "Kilen Woods State Park",
+    "park_id": "00196"
+  },
+  {
+    "name": "Lac qui Parle State Park",
+    "park_id": "00197"
+  },
+  {
+    "name": "Lake Bemidji State Park",
+    "park_id": "00205"
+  },
+  {
+    "name": "Lake Bronson State Park",
+    "park_id": "00208"
+  },
+  {
+    "name": "Lake Carlos State Park",
+    "park_id": "00211"
+  },
+  {
+    "name": "Lake Louise State Park",
+    "park_id": "00214"
+  },
+  {
+    "name": "Lake Maria State Park",
+    "park_id": "00217"
+  },
+  {
+    "name": "Lake Shetek State Park",
+    "park_id": "00220"
+  },
+  {
+    "name": "McCarthy Beach State Park",
+    "park_id": "00226"
+  },
+  {
+    "name": "Maplewood State Park",
+    "park_id": "00229"
+  },
+  {
+    "name": "Mille Lacs Kathio State Park",
+    "park_id": "00232"
+  },
+  {
+    "name": "Minneopa State Park",
+    "park_id": "00235"
+  },
+  {
+    "name": "Monson Lake State Park",
+    "park_id": "00238"
+  },
+  {
+    "name": "Moose Lake State Park",
+    "park_id": "00239"
+  },
+  {
+    "name": "Nerstrand Big Woods State Park",
+    "park_id": "00241"
+  },
+  {
+    "name": "Great River Bluffs State Park",
+    "park_id": "00244"
+  },
+  {
+    "name": "Old Mill State Park",
+    "park_id": "00247"
+  },
+  {
+    "name": "Rice Lake State Park",
+    "park_id": "00250"
+  },
+  {
+    "name": "St. Croix State Park",
+    "park_id": "00253"
+  },
+  {
+    "name": "Wild River State Park",
+    "park_id": "00254"
+  },
+  {
+    "name": "Sakatah Lake State Park",
+    "park_id": "00256"
+  },
+  {
+    "name": "Savanna Portage State Park",
+    "park_id": "00259"
+  },
+  {
+    "name": "Scenic State Park",
+    "park_id": "00262"
+  },
+  {
+    "name": "Schoolcraft State Park",
+    "park_id": "00263"
+  },
+  {
+    "name": "Sibley State Park",
+    "park_id": "00265"
+  },
+  {
+    "name": "Split Rock Lighthouse State Park",
+    "park_id": "00266"
+  },
+  {
+    "name": "Split Rock Creek State Park",
+    "park_id": "00267"
+  },
+  {
+    "name": "Temperance River State Park",
+    "park_id": "00268"
+  },
+  {
+    "name": "Tettegouche State Park",
+    "park_id": "00269"
+  },
+  {
+    "name": "Upper Sioux Agency State Park",
+    "park_id": "00277"
+  },
+  {
+    "name": "Whitewater State Park",
+    "park_id": "00280"
+  },
+  {
+    "name": "William O'Brien State Park",
+    "park_id": "00283"
+  },
+  {
+    "name": "Zippel Bay State Park",
+    "park_id": "00284"
+  },
+  {
+    "name": "Lake Vermilion-Soudan Underground Mine State Park",
+    "park_id": "00285"
+  }
+]

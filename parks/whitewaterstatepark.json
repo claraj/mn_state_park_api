@@ -1,0 +1,28 @@
+{
+  "name": "Whitewater State Park",
+  "park_id": "00280",
+  "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00280#homepage",
+  "address": "19041 Highway 74\nAltura, MN 55910",
+  "park_images": [
+    "https://images.dnr.state.mn.us/destinations/state_parks/banners/spk00280.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00280_001.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00280_002.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00280_003.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00280_004.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00280_005.jpg",
+    "https://images.dnr.state.mn.us/destinations/state_parks/1_large/SPK00280_006.jpg"
+  ],
+  "highlights": [
+    "Rugged Hiking Trails to Scenic Bluffland",
+    "Noticeable Lack of Mosquitoes",
+    "Excellent Trout Fishing summer and winter",
+    "Year-round Interpretive Programs",
+    "Visitor Center",
+    "Spectacular Spring Wildflowers"
+  ],
+  "park_information": {
+    "Park Information": "Picturesque limestone bluffs and deep ravines make Whitewater a very popular southeastern state park. The 2,700 acre park is an angler's paradise with brown, brook, and rainbow trout swimming in the spring-fed Whitewater River and Trout Run Creek. Visitors enjoy a sandy swimming beach, a year-round visitor center, easy-to-challenging hiking trails, camping, a group camp, and a modern group center. Come in the winter to enjoy cross-country skiing and snowshoeing, and stay at the group center in rustic, winterized cabins. All through the year, discover the natural and human history of the area at one of the many interpretive programs, visitor center exhibits or self-guided trails.",
+    "Wildlife": "Nearly 50 kinds of mammals and 250 kinds of birds use the Whitewater River Valley during the course of a year. Wild turkeys are in the valley and bald eagles can be found year-around. In the spring, listen and look for the rare bird, the Louisiana waterthrush. Of Minnesota's rare animals and plants, 43 percent live in the Blufflands.",
+    "History": "The Dakota named the river Whitewater because it turned milky white in the spring as high water eroded light-colored clay deposits along its banks. In 1851, a treaty opened up most of southern Minnesota for white settlement, including the Whitewater area. Settlers removed much of the native vegetation in order to farm and graze the land. In 1900, flooding related to land use began. Almost two decades later, local citizens lobbied successfully to establish Whitewater State Park to protect some of the most beautiful parts of the valley. Due to land use practices that were unsuited to the Blufflands rough landscape, flooding increased through the 1920s and 1930s leading to the abandonment of valley farms and towns. In 1938 the nearby town of Beaver flooded 28 times, marking the worst year of flooding in Whitewater Valley. In the early 1940s, state and federal conservation officials worked with local landowners and implemented sweeping conservation measures. Richard Dorer of the Minnesota Department of Conservation (now the Department of Natural Resources) designed a plan for the revival of the Whitewater River Valley. Grass, shrubs, and trees were planted on the slopes. On the uplands, contoured fields and terraces were laid out. Dikes were built forming ponds. The burning of hillside forests was banned. Some erosion prone lands were purchased, which now makes up the 28,000 acre Whitewater Wildlife Management Area adjacent to Whitewater State Park. Today, through the Whitewater Watershed Project, citizens and conservation staff are working together to create a healthier future for the land, water, and people of the Whitewater watershed."
+  }
+}
